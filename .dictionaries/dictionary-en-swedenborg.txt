@@ -816,7 +816,6 @@ enlightenments
 ensnarings
 entereth
 entwisted
-Enum
 enunciations
 Enunciations
 Enunciators
@@ -2185,8 +2184,6 @@ Sibmah
 Sichem
 sideposts
 Sidonian
-sig
-Sig
 sightedness
 significatively
 significatives
