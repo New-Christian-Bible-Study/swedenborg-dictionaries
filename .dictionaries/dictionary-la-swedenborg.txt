@@ -775,6 +775,7 @@ amstelodamensis
 amstelodami
 amstelodamo
 amstelodamum
+Amstelodamus
 amuna
 amygdalati
 amygdalatorum
@@ -2420,6 +2421,7 @@ collateraliter
 colligamentum
 collimando
 collimant
+collimare
 collimaret
 collimat
 collimatio
