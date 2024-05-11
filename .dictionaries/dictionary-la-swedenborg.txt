@@ -8332,6 +8332,7 @@ organismo
 organismum
 organismus
 organista
+Organizare
 organizata
 organizatae
 organizatas
@@ -8358,6 +8359,7 @@ osanna
 Osctatio
 ossificata
 ossificatus
+Ostraea
 over
 ovidio
 ovidius
