@@ -860,6 +860,7 @@ annihilatae
 annihilatum
 annihilaverint
 annihilavit
+annuaria
 annuentiae
 annuentiam
 annuituri
@@ -7021,6 +7022,7 @@ kuschan
 kuschani
 kuschanis
 kuschi
+Kuschios
 kuscho
 kuschum
 kush

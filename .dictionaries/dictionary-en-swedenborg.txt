@@ -552,7 +552,9 @@ curseth
 cursings
 curvilinear
 curvings
+Cushan
 Cushite
+Cushites
 cuticular
 cuticulars
 cutteth
@@ -847,6 +849,7 @@ Establisher
 establishers
 Eternals
 ethers
+Ettersalter
 eucharist
 eucharistic
 evacuatory
@@ -1766,6 +1769,7 @@ Pergamos
 periosteums
 perisheth
 Perizzite
+perjureth
 permittest
 persevereth
 personated
@@ -2168,6 +2172,7 @@ sharpeneth
 sharpsighted
 Shebah
 Shebna
+sheddeth
 Shelaph
 shewbread
 Shibah
