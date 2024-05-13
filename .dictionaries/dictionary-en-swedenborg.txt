@@ -877,6 +877,7 @@ executeth
 exercisest
 exhalative
 exinanition
+expiateth
 expiations
 explendescence
 Explendescence
@@ -1955,6 +1956,7 @@ quicksighted
 quietnesses
 Raca
 Raguel
+raha
 raineth
 raiseth
 Raphaels
@@ -2056,6 +2058,7 @@ Rosebed
 rosebeds
 Rosenadler
 Rosenstolpe
+Rua
 Rudbeck
 Rudberg
 rulest
@@ -2132,6 +2135,7 @@ scutiform
 searchest
 searcheth
 searchings
+Secretories
 seduceth
 seedtime
 Seedtime
@@ -2558,6 +2562,7 @@ unterminately
 untranquil
 unwinged
 Upsala
+Ura
 uranus
 urgencies
 urinatory
