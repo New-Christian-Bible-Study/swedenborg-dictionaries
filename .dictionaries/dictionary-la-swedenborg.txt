@@ -845,6 +845,7 @@ animadvertebatur
 animadvertentiam
 Animae
 animalcula
+animalculae
 animalculi
 animalculis
 animalculo
@@ -955,6 +956,7 @@ appercepisse
 appercepit
 appercepta
 apperceptae
+apperceptere
 appercepti
 apperceptibile
 apperceptibilem
@@ -1061,6 +1063,8 @@ aptabilis
 aptatio
 aptatione
 aptitudo
+aquaductiluvi
+Aquaductus
 aquea
 aqueae
 aqueas
@@ -1758,6 +1762,7 @@ calcareum
 calcareus
 calcatio
 calcationem
+calceavienta
 calculata
 calculaverim
 caleb
@@ -4196,6 +4201,7 @@ exemtus
 exertitium
 exfasciabantur
 exfasciantur
+Exfasciare
 exfasciatae
 exfasciatum
 exfasciemus
@@ -4215,6 +4221,7 @@ exinter
 existentiae
 existentiam
 existentias
+existiterat
 exodo
 exodos
 exodum
@@ -4540,6 +4547,7 @@ fontanella
 fontanellam
 foraminula
 foraminulum
+Forensicus
 forinseca
 forinsecae
 formabilitas
@@ -4553,6 +4561,7 @@ francus
 frangibile
 frangibiles
 frangibilis
+Fredericus
 frigescentiae
 frigescentiam
 frontale
@@ -4586,6 +4595,7 @@ fulgurando
 fulgurant
 fulgurantior
 fuliginarius
+Fulvescere
 fulvesco
 fulvescunt
 fumaverit
@@ -4802,6 +4812,7 @@ granulatum
 granulatus
 gratitudine
 gratitudo
+graveoIentia
 graveolent
 graveolenta
 graveolentam
@@ -7014,6 +7025,7 @@ labane
 labanem
 labani
 labanis
+Lachryinatio
 lachryma
 lachrymae
 lachrymam
@@ -7060,6 +7072,7 @@ lamechi
 lamecho
 lamechum
 languiditas
+Lantiginosus
 laodicea
 laodiceam
 laodicensem
@@ -7156,6 +7169,7 @@ ligam
 ligga
 ligis
 lilith
+Lilliestie
 lipothymia
 lipsia
 lipsiae
@@ -7465,6 +7479,7 @@ mediationis
 mediationum
 mediavit
 mediolanum
+Mediolanus
 Mediterra
 medo
 medum
@@ -7666,6 +7681,7 @@ minorennis
 minorennitas
 minorennitatem
 minorrenis
+Minorrennis
 miraculosa
 miraculosam
 miraculose
@@ -8219,6 +8235,7 @@ octogonum
 octogonus
 odendi
 odentium
+Odoriferus
 oedipi
 oedipus
 oesophago
@@ -8304,6 +8321,7 @@ organismo
 organismum
 organismus
 organista
+Organizare
 organizata
 organizatae
 organizatas
@@ -8410,6 +8428,7 @@ parabolica
 parabolicae
 parabolicus
 paraboliza
+Parabolizare
 parabolizo
 paradoxius
 paragraphi
@@ -8423,6 +8442,7 @@ paragrapnus
 parallelismo
 parallelismum
 parallelismus
+Parallesismus
 paran
 parenchyma
 parentatores
@@ -8437,6 +8457,7 @@ parisiis
 parlamento
 parlamentum
 parnassi
+Parnassidae
 parnassides
 parnassidum
 parnassii
@@ -8514,6 +8535,7 @@ pelishtim
 pellectant
 pellucentiam
 pellucidissimo
+Penestigare
 penetranter
 penibiles
 penibilis
@@ -8866,6 +8888,7 @@ praeabundo
 praeadamita
 praeadamitae
 praeadamitis
+Praeadamitus
 praeamant
 praeamarent
 praeamat
@@ -8942,6 +8965,7 @@ praeservationem
 praeservationes
 praeservationis
 praeservatore
+Praestabilire
 praestabilita
 praestabilitam
 praestabilitus
@@ -8982,6 +9006,7 @@ precludunt
 predicate
 predicatur
 predico
+Presentare
 primitia
 primitius
 primogenitura
@@ -8989,6 +9014,7 @@ primogeniturae
 primogenituram
 principiata
 principiatum
+Principiatus
 prioritas
 prioritate
 prioritatem
@@ -9093,6 +9119,7 @@ prolificationis
 prolifici
 prolifico
 prolificum
+Prolificus
 prolongatio
 prolongationem
 prolongatum
@@ -9188,12 +9215,14 @@ propinquatio
 propinquationes
 propitiationibus
 propullulant
+Propullulare
 propullulat
 propullulent
 propullulet
 propullulo
 proreptabant
 proreptabit
+proseminal
 prospectio
 prospectione
 prospectionem
@@ -9409,6 +9438,7 @@ ramah
 rameses
 ramificant
 ramificantur
+Ramificare
 ramificatas
 ramificatio
 ramificationes
@@ -9486,6 +9516,7 @@ receptivus
 rechobi
 rechobus
 reciprocationibus
+Recommendare
 recommendaverit
 recommendavit
 recommendo
@@ -10174,6 +10205,7 @@ scientificam
 scientifice
 scientifici
 scientificis
+scientificium
 scientifico
 scientificorum
 scientificum
@@ -10608,6 +10640,7 @@ solerter
 solicitudines
 solicitudo
 solifidiani
+Solifidianus
 sollennem
 sollennes
 sollennis
@@ -10661,6 +10694,7 @@ stapide
 stapidem
 stellulosa
 stellulosus
+Stentoreus
 stentoriae
 stentorius
 Stephanus
@@ -11135,6 +11169,7 @@ tendincsus
 tendine
 tendines
 tendinibus
+Tendinosus
 tenerrima
 tenerrimae
 tenerrimam
@@ -11336,6 +11371,7 @@ transsubstantialitate
 transsubstantiatio
 transsubstantiationem
 transsumtis
+Transubstantiatio
 transudaverit
 transudo
 transversaliter
@@ -11504,6 +11540,7 @@ urinosum
 urinosus
 usquedum
 ussiel
+Usufructus
 usufruendum
 usufruor
 usuraria
@@ -11700,6 +11737,7 @@ vorticillaris
 vunar
 warsovia
 warsoviae
+Wellingiani
 wolffianam
 wolffianus
 wolfii
@@ -11830,39 +11868,3 @@ zuzimos
 zuzimus
 zwingliani
 zwinglianus
-Lachryinatio
-Lantiginosus
-Parabolizare
-Parallesismus
-Praeadamitus
-Praestabilire
-Principiatus
-Propullulare
-Recommendare
-Solifidianus
-Transubstantiatio
-animalculae
-apperceptere
-aquaductiluvi
-calceavienta
-graveoIentia
-scientificium
-Aquaductus
-Parnassidae
-Penestigare
-Wellingiani
-existiterat
-Exfasciare
-Forensicus
-Fredericus
-Fulvescere
-Mediolanus
-Odoriferus
-Organizare
-Presentare
-Prolificus
-Ramificare
-Stentoreus
-Tendinosus
-Usufructus
-proseminal
