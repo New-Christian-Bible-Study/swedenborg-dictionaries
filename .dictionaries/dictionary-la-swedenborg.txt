@@ -775,7 +775,6 @@ amstelodamensis
 amstelodami
 amstelodamo
 amstelodamum
-Amstelodamus
 amuna
 amygdalati
 amygdalatorum
@@ -846,7 +845,6 @@ animadvertebatur
 animadvertentiam
 Animae
 animalcula
-animalculae
 animalculi
 animalculis
 animalculo
@@ -860,7 +858,6 @@ annihilatae
 annihilatum
 annihilaverint
 annihilavit
-annuaria
 annuentiae
 annuentiam
 annuituri
@@ -958,7 +955,6 @@ appercepisse
 appercepit
 appercepta
 apperceptae
-apperceptere
 appercepti
 apperceptibile
 apperceptibilem
@@ -1065,8 +1061,6 @@ aptabilis
 aptatio
 aptatione
 aptitudo
-aquaductiluvi
-Aquaductus
 aquea
 aqueae
 aqueas
@@ -1764,7 +1758,6 @@ calcareum
 calcareus
 calcatio
 calcationem
-calceavienta
 calculata
 calculaverim
 caleb
@@ -1973,7 +1966,6 @@ chamorem
 chamoris
 chamum
 chamus
-Channa
 channah
 channeh
 chanoch
@@ -2018,7 +2010,6 @@ chelbonis
 chemos
 cheran
 cheres
-Cherez
 chermon
 cherub
 cherube
@@ -2054,8 +2045,6 @@ chinenses
 chinensibus
 chinensis
 chippod
-Chirah
-Chiram
 chiroth
 chittaei
 chittaeorum
@@ -2071,7 +2060,6 @@ chivaeum
 chivaeus
 chivita
 chivitam
-Chobah
 chocolad
 chomer
 chomere
@@ -2423,7 +2411,6 @@ collateraliter
 colligamentum
 collimando
 collimant
-collimare
 collimaret
 collimat
 collimatio
@@ -2532,7 +2519,6 @@ condescendentiae
 condescendentiam
 confarciantur
 confarcio
-confarcire
 confarciunt
 confarciuntur
 confarcta
@@ -3248,7 +3234,6 @@ deossavit
 deosso
 depauperabit
 depauperabitur
-Depauperare
 depauperari
 depauperavit
 depaupero
@@ -4230,7 +4215,6 @@ exinter
 existentiae
 existentiam
 existentias
-existiterat
 exodo
 exodos
 exodum
@@ -4569,7 +4553,6 @@ francus
 frangibile
 frangibiles
 frangibilis
-fricaro
 frigescentiae
 frigescentiam
 frontale
@@ -4819,7 +4802,6 @@ granulatum
 granulatus
 gratitudine
 gratitudo
-graveoIentia
 graveolent
 graveolenta
 graveolentam
@@ -5926,7 +5908,6 @@ irradicandis
 irradicandum
 irradicant
 irradicantur
-Irradicare
 irradicarunt
 irradicat
 irradicata
@@ -5960,7 +5941,6 @@ irresistibile
 irresistibilem
 irresistibiles
 irresistibilis
-irrideus
 isaac
 isaaco
 isaacum
@@ -7023,7 +7003,6 @@ kuschan
 kuschani
 kuschanis
 kuschi
-Kuschios
 kuscho
 kuschum
 kush
@@ -7035,7 +7014,6 @@ labane
 labanem
 labani
 labanis
-Lachryinatio
 lachryma
 lachrymae
 lachrymam
@@ -7075,7 +7053,6 @@ laevigatis
 laevigatum
 laevigo
 lahai
-Laisch
 laish
 lajisch
 lamech
@@ -7083,7 +7060,6 @@ lamechi
 lamecho
 lamechum
 languiditas
-Lantiginosus
 laodicea
 laodiceam
 laodicensem
@@ -7177,6 +7153,7 @@ ligaculo
 ligaculum
 ligae
 ligam
+ligga
 ligis
 lilith
 lipothymia
@@ -7342,7 +7319,6 @@ mahumedanam
 mahumedanarum
 mahumedani
 mahumedanis
-Mahumedanismus
 mahumedano
 mahumedanorum
 mahumedanos
@@ -7876,7 +7852,6 @@ nabotho
 nabothus
 nachaschon
 nachaschonis
-Nactergal
 nadab
 nadabi
 nadabum
@@ -7894,7 +7869,6 @@ naphish
 naphtali
 naphtalim
 naphthali
-Naphthuchim
 naphtuhim
 nasciturae
 nascituram
@@ -7914,7 +7888,6 @@ naturalistae
 naturalistam
 naturalistarum
 naturalistis
-Naturare
 naturata
 naturatum
 naturatus
@@ -7935,7 +7908,6 @@ naziraeorum
 naziraeos
 naziraeum
 naziraeus
-Nazireatus
 neapoli
 neapolis
 neapolitanae
@@ -7967,7 +7939,6 @@ necromanticis
 necromanticus
 nectarem
 neginoth
-Neglegare
 negro
 negrones
 nemesis
@@ -7992,7 +7963,6 @@ netorius
 newton
 newtoniana
 newtonianus
-Newtonius
 newtono
 newtonus
 nicaea
@@ -8240,7 +8210,6 @@ occlusionis
 ocellatura
 ocellaturis
 ochim
-Octagonus
 octavius
 octimestre
 octimestris
@@ -8335,7 +8304,6 @@ organismo
 organismum
 organismus
 organista
-Organizare
 organizata
 organizatae
 organizatas
@@ -8362,7 +8330,6 @@ osanna
 Osctatio
 ossificata
 ossificatus
-Ostraea
 over
 ovidio
 ovidius
@@ -8443,7 +8410,6 @@ parabolica
 parabolicae
 parabolicus
 paraboliza
-Parabolizare
 parabolizo
 paradoxius
 paragraphi
@@ -8457,7 +8423,6 @@ paragrapnus
 parallelismo
 parallelismum
 parallelismus
-Parallesismus
 paran
 parenchyma
 parentatores
@@ -8472,7 +8437,6 @@ parisiis
 parlamento
 parlamentum
 parnassi
-Parnassidae
 parnassides
 parnassidum
 parnassii
@@ -8550,7 +8514,6 @@ pelishtim
 pellectant
 pellucentiam
 pellucidissimo
-Penestigare
 penetranter
 penibiles
 penibilis
@@ -8903,7 +8866,6 @@ praeabundo
 praeadamita
 praeadamitae
 praeadamitis
-Praeadamitus
 praeamant
 praeamarent
 praeamat
@@ -8980,7 +8942,6 @@ praeservationem
 praeservationes
 praeservationis
 praeservatore
-Praestabilire
 praestabilita
 praestabilitam
 praestabilitus
@@ -9028,7 +8989,6 @@ primogeniturae
 primogenituram
 principiata
 principiatum
-Principiatus
 prioritas
 prioritate
 prioritatem
@@ -9228,7 +9188,6 @@ propinquatio
 propinquationes
 propitiationibus
 propullulant
-Propullulare
 propullulat
 propullulent
 propullulet
@@ -9527,7 +9486,6 @@ receptivus
 rechobi
 rechobus
 reciprocationibus
-Recommendare
 recommendaverit
 recommendavit
 recommendo
@@ -9663,7 +9621,6 @@ rejicitis
 rejicitur
 rejiciunt
 rejiciuntur
-relamen
 reluxatio
 reluxationes
 remaliae
@@ -10021,6 +9978,7 @@ samaritidem
 samaritidi
 samaritis
 samlah
+sammanliggandet
 samosateni
 samuel
 samuele
@@ -10173,7 +10131,6 @@ schemuelem
 schemuelis
 schemum
 schemus
-Scheth
 schichor
 schichoris
 schigajon
@@ -10201,7 +10158,6 @@ schmidium
 schmidius
 schoham
 schoschannim
-Schuah
 schur
 schwengfeldiani
 schwengfeldianus
@@ -10218,7 +10174,6 @@ scientificam
 scientifice
 scientifici
 scientificis
-scientificium
 scientifico
 scientificorum
 scientificum
@@ -10383,7 +10338,6 @@ septimalis
 septuplus
 sepulchrales
 sepulchralis
-Serach
 serah
 seraphim
 sered
@@ -10428,7 +10382,6 @@ seveneh
 sexagecuplum
 sexagecuplus
 sexcentenus
-sexcentisimus
 sextabo
 sextare
 sextarent
@@ -10655,7 +10608,6 @@ solerter
 solicitudines
 solicitudo
 solifidiani
-Solifidianus
 sollennem
 sollennes
 sollennis
@@ -11076,7 +11028,6 @@ supraspiritualis
 supraspiritualiter
 susceptibiliores
 susceptibilitas
-Suzim
 Svecicae
 swammerdam
 swammerdami
@@ -11282,7 +11233,6 @@ therumae
 therumam
 thessalonicensi
 thessalonicensis
-Thiras
 thoma
 thomae
 thomam
@@ -11318,7 +11268,6 @@ timotheum
 timotheus
 tiras
 tishbita
-Tjensteandar
 tochu
 togarmah
 tola
@@ -11387,7 +11336,6 @@ transsubstantialitate
 transsubstantiatio
 transsubstantiationem
 transsumtis
-Transubstantiatio
 transudaverit
 transudo
 transversaliter
@@ -11419,7 +11367,6 @@ triunum
 triunus
 trojanum
 trojanus
-truldoms
 trutinatio
 trutinationes
 tubal
@@ -11753,7 +11700,6 @@ vorticillaris
 vunar
 warsovia
 warsoviae
-Wellingiani
 wolffianam
 wolffianus
 wolfii
@@ -11884,3 +11830,39 @@ zuzimos
 zuzimus
 zwingliani
 zwinglianus
+Lachryinatio
+Lantiginosus
+Parabolizare
+Parallesismus
+Praeadamitus
+Praestabilire
+Principiatus
+Propullulare
+Recommendare
+Solifidianus
+Transubstantiatio
+animalculae
+apperceptere
+aquaductiluvi
+calceavienta
+graveoIentia
+scientificium
+Aquaductus
+Parnassidae
+Penestigare
+Wellingiani
+existiterat
+Exfasciare
+Forensicus
+Fredericus
+Fulvescere
+Mediolanus
+Odoriferus
+Organizare
+Presentare
+Prolificus
+Ramificare
+Stentoreus
+Tendinosus
+Usufructus
+proseminal
