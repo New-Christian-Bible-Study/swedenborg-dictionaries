@@ -53,6 +53,7 @@ adnumerated
 Adolphus
 Adonai
 adorations
+adornest
 adscititious
 Adscititious
 Adulla
@@ -694,6 +695,7 @@ draconic
 dragonist
 dragonists
 draught
+drawest
 draweth
 dreameth
 drinkables

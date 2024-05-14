@@ -8458,6 +8458,7 @@ parisiis
 parlamento
 parlamentum
 Parlamentus
+Parmos
 parnassi
 Parnassidae
 parnassides
