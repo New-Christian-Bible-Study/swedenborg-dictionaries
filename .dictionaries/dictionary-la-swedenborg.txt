@@ -8470,6 +8470,7 @@ parisii
 parisiis
 parlamento
 parlamentum
+Parlamentus
 parnassi
 Parnassidae
 parnassides
