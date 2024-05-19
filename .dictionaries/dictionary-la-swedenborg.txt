@@ -2884,6 +2884,7 @@ cooperatrice
 cooperatricem
 cooperatrix
 coordinantur
+Coordinare
 coordinata
 coordinati
 coordinatis
