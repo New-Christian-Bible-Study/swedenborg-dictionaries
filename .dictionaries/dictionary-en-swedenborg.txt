@@ -616,6 +616,7 @@ Diduction
 dieth
 digged
 dijudication
+dilaceration
 dilatations
 dilection
 dilections
@@ -1747,6 +1748,7 @@ Potiphar
 practise
 practised
 practises
+prayings
 preachings
 preceeding
 preciousnesses

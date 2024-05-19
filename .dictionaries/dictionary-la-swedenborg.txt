@@ -9232,6 +9232,7 @@ prospectione
 prospectionem
 prostata
 prostatae
+Prostrare
 prototypon
 protrusio
 protrusiones
@@ -11055,6 +11056,7 @@ supranominatis
 supranominatus
 supraostensis
 supraostensus
+Supraponderare
 supraponderaret
 suprapondero
 suprapondium
