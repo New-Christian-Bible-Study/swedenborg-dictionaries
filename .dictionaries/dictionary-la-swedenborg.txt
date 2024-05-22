@@ -4791,6 +4791,7 @@ gradiri
 gradiris
 gradis
 graduantur
+Graduare
 graduatim
 graduor
 graeca

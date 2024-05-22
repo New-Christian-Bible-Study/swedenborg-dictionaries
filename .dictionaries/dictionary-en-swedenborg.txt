@@ -639,6 +639,7 @@ discerptors
 discordances
 discoverable
 discreted
+discretes
 discriminations
 disembowelled
 dishevelled
