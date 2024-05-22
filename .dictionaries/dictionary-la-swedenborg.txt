@@ -3193,6 +3193,7 @@ delitiantur
 delitiari
 delitiarum
 delitias
+Delitiatio
 delitiatur
 delitiemini
 delitientur
