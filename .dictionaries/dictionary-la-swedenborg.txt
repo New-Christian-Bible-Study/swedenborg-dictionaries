@@ -3193,6 +3193,7 @@ delitiantur
 delitiari
 delitiarum
 delitias
+Delitiatio
 delitiatur
 delitiemini
 delitientur
@@ -4791,6 +4792,7 @@ gradiri
 gradiris
 gradis
 graduantur
+Graduare
 graduatim
 graduor
 graeca
@@ -9961,6 +9963,8 @@ sabbathum
 sabelliani
 sabtah
 sabteca
+Sabtha
+Sabtheka
 saccharini
 saccharinis
 saccharino
