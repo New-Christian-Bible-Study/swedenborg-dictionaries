@@ -166,6 +166,7 @@ ascendeth
 Ashdod
 Ashdodites
 Ashur
+Ashurim
 Askenas
 asketh
 Assentation
@@ -225,6 +226,7 @@ bended
 bendings
 Bengt
 Benjamite
+Benzel
 Benzelius
 Benzelst
 Benzelstierna
@@ -616,6 +618,7 @@ Diduction
 dieth
 digged
 dijudication
+dilaceration
 dilatations
 dilection
 dilections
@@ -792,6 +795,7 @@ environing
 enwrap
 Eolus
 ephahs
+Ephatha
 ephods
 epigastric
 equalities
@@ -1842,7 +1846,6 @@ quarrellings
 quickeneth
 quicksighted
 quietnesses
-Rabbimis
 Rabbins
 Raca
 Raguel
@@ -1850,6 +1853,7 @@ raha
 Rahba
 Rahbath
 raineth
+Ramath
 Raphaels
 rapines
 Ratiociation
@@ -2272,6 +2276,7 @@ Tiberias
 titillations
 Togannah
 toucheth
+tradress
 traffickings
 tragical
 tranquillises

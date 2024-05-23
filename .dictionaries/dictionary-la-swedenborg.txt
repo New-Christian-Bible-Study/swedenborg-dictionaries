@@ -2884,6 +2884,7 @@ cooperatrice
 cooperatricem
 cooperatrix
 coordinantur
+Coordinare
 coordinata
 coordinati
 coordinatis
@@ -7706,6 +7707,7 @@ missionarios
 missionarius
 mista
 mistam
+Mizpae
 mizpah
 mizraim
 mizzah
@@ -9231,6 +9233,7 @@ prospectione
 prospectionem
 prostata
 prostatae
+Prostrare
 prototypon
 protrusio
 protrusiones
@@ -9317,6 +9320,7 @@ purpuraceus
 pusillanimorum
 pusillanimus
 put
+Puth
 putiel
 putielis
 puvah
@@ -9415,6 +9419,7 @@ rabba
 rabbae
 rabbah
 rabbam
+Rabbath
 rabbi
 rabbini
 rabbinis
@@ -11164,6 +11169,7 @@ teman
 temane
 temanita
 temanitarum
+Temararius
 temporea
 temporeum
 temporeus
