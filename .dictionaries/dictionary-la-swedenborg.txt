@@ -3353,6 +3353,7 @@ devoratione
 devorationem
 dexterrime
 dexterrimi
+Dexterus
 diagnostica
 diagnosticum
 diamantinam
