@@ -10309,6 +10309,7 @@ selah
 selav
 Selemnites
 sem
+semetipsis
 semiariani
 semicorum
 semicorus
