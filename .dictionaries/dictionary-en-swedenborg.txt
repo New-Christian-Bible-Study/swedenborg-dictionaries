@@ -1840,6 +1840,7 @@ purificatory
 Purificatory
 purities
 pustulated
+pustulous
 putrefactions
 putridity
 puttest
