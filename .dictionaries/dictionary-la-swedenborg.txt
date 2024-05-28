@@ -2944,6 +2944,7 @@ crassiusculo
 crassiusculus
 cremasteres
 cribosa
+cribrosa
 cribrosam
 cribrosus
 criterion
@@ -3245,6 +3246,8 @@ depauperari
 depauperavit
 depaupero
 dependentiam
+Dephlegma
+Dephlegmare
 dephlegmatio
 dephlegmatur
 dephlegmo
@@ -4917,6 +4920,7 @@ haggai
 haggaium
 haggi
 hagraei
+hahiroth
 halelu
 halelujah
 hallelu
@@ -8542,6 +8546,7 @@ pelegi
 pelegum
 pelegus
 pelishtim
+Pelisthim
 pellectant
 pellucentiam
 pellucidissimo
@@ -8763,6 +8768,7 @@ phtises
 phtisis
 physicalia
 physicalis
+Pichiroth
 pietista
 pietistas
 pignorantis
@@ -8782,6 +8788,7 @@ pinhaso
 pinhasum
 pinhasus
 pinon
+Pischon
 pisgae
 pisgah
 pishon
