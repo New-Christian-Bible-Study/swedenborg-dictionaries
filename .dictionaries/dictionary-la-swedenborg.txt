@@ -8084,6 +8084,7 @@ nuclearia
 nuclearis
 numerica
 numericus
+numphonos
 nun
 nune
 nunis
