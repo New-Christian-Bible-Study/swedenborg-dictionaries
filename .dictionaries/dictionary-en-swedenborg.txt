@@ -1083,6 +1083,7 @@ heterogeneities
 hewn
 Hewn
 hiddenly
+hidest
 highests
 hindermost
 hissings
@@ -1776,6 +1777,7 @@ predications
 prelection
 premeditatation
 premeditatedly
+preparest
 prepareth
 preservations
 preservest
@@ -2259,6 +2261,7 @@ Tartaruses
 Tatian
 teachableness
 Teachableness
+teachest
 teacheth
 tearings
 tellest
