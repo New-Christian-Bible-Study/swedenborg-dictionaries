@@ -9675,6 +9675,7 @@ rejicitis
 rejicitur
 rejiciunt
 rejiciuntur
+relamen
 reluxatio
 reluxationes
 remaliae
