@@ -1741,6 +1741,7 @@ ploughed
 ploughing
 Ploughing
 ploughman
+ploughmen
 ploughs
 ploughshare
 ploughshares
