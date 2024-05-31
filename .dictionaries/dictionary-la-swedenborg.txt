@@ -2898,6 +2898,7 @@ cornucopia
 cornucopiae
 cornuferiet
 cornuferio
+cornuferire
 cornuferiret
 coronatio
 coronatione
@@ -10752,6 +10753,7 @@ storge
 storges
 strabisme
 strabismus
+Straitim
 stratim
 striatim
 Stridura

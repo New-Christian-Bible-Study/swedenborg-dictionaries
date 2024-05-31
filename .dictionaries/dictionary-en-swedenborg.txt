@@ -1742,6 +1742,7 @@ ploughed
 ploughing
 Ploughing
 ploughman
+ploughmen
 ploughs
 ploughshare
 ploughshares
@@ -2296,6 +2297,7 @@ thymous
 Tiberias
 titillations
 Togannah
+torpified
 toucheth
 tradress
 traffickings
