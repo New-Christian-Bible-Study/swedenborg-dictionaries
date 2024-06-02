@@ -3381,6 +3381,7 @@ didascali
 didascalorum
 didascalos
 didascalus
+Didasculus
 diffluxit
 diffregerunt
 diffregisti
@@ -11298,6 +11299,7 @@ tharshish
 thau
 the
 thea
+Thebach
 thee
 thekel
 thelabib
