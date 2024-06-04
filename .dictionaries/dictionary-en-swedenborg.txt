@@ -327,6 +327,7 @@ centre
 Centre
 centres
 centripetence
+Cephas
 Cerberuses
 cerulescent
 chajah
@@ -442,6 +443,7 @@ compasseth
 compassions
 complainings
 compressions
+conatuses
 Concentrare
 concords
 concubinages
@@ -505,6 +507,8 @@ corporeals
 correspondential
 correspondentially
 correspondently
+corrupters
+coucheth
 councilchamber
 councillor
 councillors
@@ -573,6 +577,7 @@ deflowerers
 deflux
 deformedly
 defraudings
+delectates
 delectations
 Delicates
 deliciated
@@ -741,6 +746,7 @@ effigiated
 effigiates
 effigied
 efflorescing
+effluviae
 egermination
 Eglon
 egression
@@ -857,6 +863,7 @@ exteriorly
 Extraconjugial
 Extravasation
 extravasations
+exultations
 Eyesalve
 Ezion
 fadeth
@@ -903,6 +910,7 @@ fiercenesses
 filledst
 filleth
 filthinesses
+findest
 findeth
 finited
 finiteness
@@ -978,6 +986,7 @@ gammadim
 ganglions
 Gardie
 garlick
+gaspeth
 gathereth
 Gazophylarium
 Geba
@@ -1043,6 +1052,7 @@ haemorrhoids
 Hagarenes
 halteth
 Hamathites
+handstaff
 hangeth
 Hanior
 happinesses
@@ -1079,6 +1089,7 @@ heterogeneities
 hewn
 Hewn
 hiddenly
+hidest
 highests
 hindermost
 hissings
@@ -1459,6 +1470,7 @@ Medes
 mediately
 mediations
 medicaments
+meditateth
 mediumship
 medullary
 meetest
@@ -1517,6 +1529,7 @@ Moravianism
 Moravians
 morever
 motorics
+motories
 motory
 moulded
 mouldiness
@@ -1566,6 +1579,7 @@ newsmongers
 NIC
 Nicolaitanes
 Nicolaitans
+Nidorous
 Noachic
 Noetic
 noisomeness
@@ -1733,6 +1747,7 @@ ploughed
 ploughing
 Ploughing
 ploughman
+ploughmen
 ploughs
 ploughshare
 ploughshares
@@ -1770,6 +1785,7 @@ predications
 prelection
 premeditatation
 premeditatedly
+preparest
 prepareth
 preservations
 preservest
@@ -1789,6 +1805,7 @@ procreations
 profanedst
 profaners
 Profaners
+profaneth
 profiteth
 Prolificate
 prolificates
@@ -1835,6 +1852,7 @@ purificatory
 Purificatory
 purities
 pustulated
+pustulous
 putrefactions
 putridity
 puttest
@@ -1848,6 +1866,7 @@ Quaquertanismus
 quarrelled
 quarrelling
 quarrellings
+quartans
 quickeneth
 quicksighted
 quietnesses
@@ -2005,6 +2024,7 @@ Scholastics
 Schonstrom
 schoolmen
 scientifics
+scoffings
 scortate
 scortated
 scortating
@@ -2087,6 +2107,7 @@ sightedness
 significatively
 significatives
 Sihor
+Silfwerström
 sillily
 silvern
 similitudes
@@ -2159,9 +2180,12 @@ stealeth
 stelliferous
 stercoraceous
 Stereometric
+stilleth
 stirreth
 Stjercrona
 Stjerncrona
+stoppeth
+Stora
 stragglings
 straitness
 Straitness
@@ -2225,6 +2249,7 @@ sustenation
 sustentation
 Sustentation
 sustentations
+Sverin
 sware
 sweareth
 SWEDBERG
@@ -2249,9 +2274,11 @@ Tartaruses
 Tatian
 teachableness
 Teachableness
+teachest
 teacheth
 tearings
 tellest
+tellings
 temperings
 tenacities
 tendinous
@@ -2280,6 +2307,7 @@ thymous
 Tiberias
 titillations
 Togannah
+torpified
 toucheth
 tradress
 traffickings
@@ -2421,6 +2449,7 @@ usuries
 utterable
 Uzel
 Uzziah
+Valerius
 valour
 vaporizations
 vapour

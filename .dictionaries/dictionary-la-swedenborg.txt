@@ -2898,6 +2898,7 @@ cornucopia
 cornucopiae
 cornuferiet
 cornuferio
+cornuferire
 cornuferiret
 coronatio
 coronatione
@@ -2944,6 +2945,7 @@ crassiusculo
 crassiusculus
 cremasteres
 cribosa
+cribrosa
 cribrosam
 cribrosus
 criterion
@@ -3245,6 +3247,8 @@ depauperari
 depauperavit
 depaupero
 dependentiam
+Dephlegma
+Dephlegmare
 dephlegmatio
 dephlegmatur
 dephlegmo
@@ -3353,6 +3357,7 @@ devoratione
 devorationem
 dexterrime
 dexterrimi
+Dexterus
 diagnostica
 diagnosticum
 diamantinam
@@ -3376,6 +3381,8 @@ didascali
 didascalorum
 didascalos
 didascalus
+didasculi
+Didasculus
 diffluxit
 diffregerunt
 diffregisti
@@ -3408,6 +3415,7 @@ discalceatio
 discalceo
 discanto
 discantum
+discantus
 discerptor
 discerptores
 discerptoribus
@@ -4915,6 +4923,7 @@ haggai
 haggaium
 haggi
 hagraei
+hahiroth
 halelu
 halelujah
 hallelu
@@ -8014,6 +8023,7 @@ nicolaus
 nidificarunt
 nidificata
 nidificaverint
+Nidorus
 nigricor
 nigrita
 nimrim
@@ -8078,6 +8088,7 @@ nuclearia
 nuclearis
 numerica
 numericus
+numphonos
 nun
 nune
 nunis
@@ -8231,6 +8242,7 @@ occlusionis
 ocellatura
 ocellaturis
 ochim
+Octagonus
 octavius
 octimestre
 octimestris
@@ -8539,6 +8551,7 @@ pelegi
 pelegum
 pelegus
 pelishtim
+Pelisthim
 pellectant
 pellucentiam
 pellucidissimo
@@ -8760,6 +8773,7 @@ phtises
 phtisis
 physicalia
 physicalis
+Pichiroth
 pietista
 pietistas
 pignorantis
@@ -8779,6 +8793,7 @@ pinhaso
 pinhasum
 pinhasus
 pinon
+Pischon
 pisgae
 pisgah
 pishon
@@ -9662,6 +9677,7 @@ rejicitis
 rejicitur
 rejiciunt
 rejiciuntur
+relamen
 reluxatio
 reluxationes
 remaliae
@@ -10029,6 +10045,7 @@ samuele
 samuelem
 samueli
 samuelis
+Sancherib
 sancheribi
 sancheribo
 sancheribus
@@ -10139,6 +10156,7 @@ schalemi
 schalemus
 schamgar
 schamgaris
+Schammah
 schaon
 schaphan
 schaphanem
@@ -10153,12 +10171,15 @@ schauli
 schaulis
 schaulo
 schaulus
+Schaveh
 scheba
 schebae
 schebam
+Schechem
 schechemi
 schechemo
 schechemus
+Schelach
 schelah
 schelam
 schelomo
@@ -10168,6 +10189,7 @@ schelomonis
 schelonita
 schelonitae
 schem
+Schemeber
 schemi
 scheminith
 schemuel
@@ -10175,10 +10197,13 @@ schemuelem
 schemuelis
 schemum
 schemus
+Scheth
+Schibba
 schichor
 schichoris
 schigajon
 schilo
+Schiloh
 schilunte
 schiluntis
 schimei
@@ -10188,6 +10213,7 @@ schimeonem
 schimeonis
 schimson
 schinaar
+Schineab
 schinear
 schiphra
 schirion
@@ -10202,6 +10228,7 @@ schmidium
 schmidius
 schoham
 schoschannim
+Schua
 schur
 schwengfeldiani
 schwengfeldianus
@@ -10283,6 +10310,7 @@ secretorio
 secretoriorum
 secretorium
 secretorius
+seipsis
 seipsum
 seir
 seis
@@ -10305,7 +10333,9 @@ sejunxerunt
 sejunxit
 selah
 selav
+Selemnites
 sem
+semetipsis
 semiariani
 semicorum
 semicorus
@@ -10705,6 +10735,7 @@ stapedem
 stapes
 stapide
 stapidem
+Stelliferus
 stellulosa
 stellulosus
 Stentoreus
@@ -10726,6 +10757,7 @@ storge
 storges
 strabisme
 strabismus
+Straitim
 stratim
 striatim
 Stridura
@@ -11135,6 +11167,7 @@ tabacum
 tabera
 tacitissimi
 taedent
+Taedius
 tahash
 talglius
 tamar
@@ -11255,6 +11288,7 @@ teterrimis
 teterrimum
 teterrimus
 thaavah
+Thabor
 thalassius
 thamar
 thamare
@@ -11266,9 +11300,11 @@ tharschish
 tharschishi
 tharschisho
 tharshish
+Thartan
 thau
 the
 thea
+Thebach
 thee
 thekel
 thelabib
@@ -11277,6 +11313,7 @@ themane
 themanis
 themes
 themis
+Therach
 theraphim
 theruma
 therumae
@@ -11316,6 +11353,7 @@ timnatha
 timnatham
 timotheum
 timotheus
+Tinnuere
 tiras
 tishbita
 tochu
@@ -11463,6 +11501,7 @@ undatione
 undenam
 undequaque
 undequavis
+underlig
 undulabant
 undulando
 undulans
