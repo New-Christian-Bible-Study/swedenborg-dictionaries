@@ -9795,6 +9795,7 @@ respiratorius
 responsorius
 respublica
 respublicas
+restitu
 restrictorium
 restrictorius
 resultaverint
