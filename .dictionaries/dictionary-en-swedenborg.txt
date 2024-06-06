@@ -155,6 +155,7 @@ ariseth
 Aristotelians
 Arkite
 Arkites
+armour
 Arnel
 Arphachschad
 Arphaxad
@@ -1928,6 +1929,7 @@ reluctation
 Reluctation
 reluctations
 remaineth
+remainings
 rememberest
 remembereth
 removeth

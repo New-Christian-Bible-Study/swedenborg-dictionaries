@@ -10945,6 +10945,7 @@ subsequent
 subsiderat
 subsiderit
 subsiderunt
+Subsilere
 substantiata
 substantiatae
 substantiatis
@@ -11320,6 +11321,9 @@ therumae
 therumam
 thessalonicensi
 thessalonicensis
+Thideal
+Thimnath
+Thiras
 thoma
 thomae
 thomam
@@ -11337,6 +11341,7 @@ thumim
 thummim
 thurcicus
 thyatira
+Thyatirae
 thyatirensi
 thyatirensis
 thyatiriensis
