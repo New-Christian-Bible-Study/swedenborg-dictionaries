@@ -19,6 +19,7 @@ Abinadab
 ABISHAI
 Abolibah
 Abom
+Absolom
 accommodatedly
 accordances
 accordantly
@@ -1925,6 +1926,7 @@ reluctation
 Reluctation
 reluctations
 remaineth
+remainings
 rememberest
 remembereth
 removeth
