@@ -248,6 +248,7 @@ blasphemation
 blasphemations
 blasphemings
 blessednesses
+blesseth
 blest
 blindeth
 blindnesses
@@ -1613,6 +1614,7 @@ odours
 Oecumenical
 offence
 offences
+offereth
 offsprings
 Og
 oliveyard
