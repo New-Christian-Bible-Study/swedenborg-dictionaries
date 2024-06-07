@@ -2187,6 +2187,7 @@ serosities
 serosity
 Serosity
 servantships
+servitudes
 setteth
 sevenfold
 sextary
