@@ -2981,6 +2981,7 @@ culmatus
 cumprimum
 cumulatio
 cupedium
+cupire
 cush
 cushi
 cushim
