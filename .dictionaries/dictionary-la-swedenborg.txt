@@ -859,6 +859,7 @@ annihilatae
 annihilatum
 annihilaverint
 annihilavit
+annuaria
 annuentiae
 annuentiam
 annuituri
@@ -4335,6 +4336,7 @@ ezechielem
 ezechieli
 ezechielis
 ezer
+Ezjon
 ezra
 ezrahita
 fa
@@ -6207,6 +6209,7 @@ javanem
 javanimi
 javanimorum
 javanis
+Jeber
 jebusaei
 jebusaeorum
 jebusaeos
@@ -7037,6 +7040,7 @@ kuschan
 kuschani
 kuschanis
 kuschi
+Kuschios
 kuscho
 kuschum
 kush
