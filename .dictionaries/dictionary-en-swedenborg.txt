@@ -2513,6 +2513,7 @@ tutorships
 twistings
 Twofoldedness
 twofoldness
+typicals
 Ulrica
 ultimates
 unadaptable
