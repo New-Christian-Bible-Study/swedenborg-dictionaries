@@ -576,6 +576,7 @@ dayspring
 deadness
 debauchings
 Debauchings
+decachords
 decalogue
 decantations
 Decapolis
@@ -633,6 +634,7 @@ despisers
 despitefully
 despoilings
 destroyedst
+destroyest
 destructions
 determinately
 detestations
@@ -1281,6 +1283,7 @@ inmosts
 innocences
 innocencies
 innocency
+innocentness
 innumerability
 inordinated
 inordination
@@ -1309,6 +1312,7 @@ instructeth
 insufflated
 insufflates
 insulters
+insultings
 intelligences
 Intelligences
 intemperances
@@ -1494,6 +1498,7 @@ looketh
 lookings
 loosenings
 looseth
+loosings
 Losche
 loveable
 lovest
