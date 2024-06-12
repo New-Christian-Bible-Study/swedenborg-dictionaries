@@ -5183,6 +5183,7 @@ horitis
 hormah
 horonaim
 horrescentiam
+Hortiilanus
 horula
 horulae
 horulam
@@ -5223,6 +5224,7 @@ huppim
 hushai
 husham
 hushim
+Hvitlok
 hydra
 hydrae
 hydras
@@ -9832,6 +9834,7 @@ respiratorius
 responsorius
 respublica
 respublicas
+restitu
 restrictorium
 restrictorius
 resultaverint

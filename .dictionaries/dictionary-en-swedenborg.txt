@@ -1028,6 +1028,7 @@ Gadara
 Gadarenes
 Gaddites
 Gadites
+Gaditi
 Gaffel
 gainings
 Gallican
@@ -1567,6 +1568,7 @@ melteth
 membranaceous
 membranules
 Memoires
+Meni
 menstrum
 mensurations
 merchandize
@@ -2745,5 +2747,6 @@ Zidonians
 Ziklag
 Zinzendorf
 Zinzendorfians
+Ziphion
 Zipporah
 Zwinglians
