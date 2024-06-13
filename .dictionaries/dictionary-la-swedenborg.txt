@@ -3194,6 +3194,7 @@ delineatum
 delineatus
 deliravissent
 deliravit
+Delitere
 delitiabatur
 delitiaberis
 delitiae
@@ -7267,6 +7268,7 @@ lupercus
 lupinar
 lupinaribus
 Lupinaris
+Lus
 lusile
 lusiles
 lusilis
@@ -7284,6 +7286,7 @@ luthero
 lutherum
 lutherus
 luxationem
+Luxurire
 luz
 lybia
 lybiam
