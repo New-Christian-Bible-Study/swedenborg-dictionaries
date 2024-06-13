@@ -7225,6 +7225,7 @@ londini
 Londinium
 londino
 londinum
+Longanimus
 longitudinalem
 longitudinalis
 longitudinarius
