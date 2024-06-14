@@ -2519,6 +2519,7 @@ conchiliis
 conchilium
 conclare
 concreo
+concretim
 concuba
 concubam
 concubus
@@ -3193,6 +3194,7 @@ delineatum
 delineatus
 deliravissent
 deliravit
+Delitere
 delitiabatur
 delitiaberis
 delitiae
@@ -7224,6 +7226,7 @@ londini
 Londinium
 londino
 londinum
+Longanimus
 longitudinalem
 longitudinalis
 longitudinarius
@@ -7240,6 +7243,7 @@ lotho
 lothum
 lothus
 lotteria
+Lotterium
 lubentius
 lubim
 luca
@@ -7264,6 +7268,7 @@ lupercus
 lupinar
 lupinaribus
 Lupinaris
+Lus
 lusile
 lusiles
 lusilis
@@ -7281,6 +7286,7 @@ luthero
 lutherum
 lutherus
 luxationem
+Luxurire
 luz
 lybia
 lybiam
