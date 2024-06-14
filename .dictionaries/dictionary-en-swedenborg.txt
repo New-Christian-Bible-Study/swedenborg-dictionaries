@@ -1474,6 +1474,7 @@ legband
 Leibnitz
 leipothymia
 Lejel
+lendeth
 leprosies
 Lernean
 lessenings
@@ -2232,6 +2233,7 @@ shipmasters
 shittah
 Shittah
 shouldst
+showeth
 Shuah
 shutteth
 Sibmah
