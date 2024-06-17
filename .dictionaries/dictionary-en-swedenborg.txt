@@ -53,6 +53,7 @@ Adlerheim
 Admah
 administerial
 adnumerated
+adolescentile
 Adolphus
 Adonai
 adorations
@@ -140,11 +141,13 @@ apperception
 apperceptions
 apperceptive
 appetize
+appetizes
 approachest
 Approachings
 Aqabah
 Arabah
 arachnoid
+Aramaean
 Aramean
 arbours
 arcanist
@@ -1083,6 +1086,7 @@ Glorifications
 gloryings
 gnashings
 gnawings
+Gnuggismus
 goest
 goeth
 goodnesses
@@ -1474,6 +1478,7 @@ legband
 Leibnitz
 leipothymia
 Lejel
+lendeth
 leprosies
 Lernean
 lessenings
@@ -1883,6 +1888,7 @@ postdiluvian
 postdiluvians
 posteriorly
 posterities
+postremes
 potencies
 Potiphar
 practise
@@ -2232,6 +2238,7 @@ shipmasters
 shittah
 Shittah
 shouldst
+showeth
 Shuah
 shutteth
 Sibmah
