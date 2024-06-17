@@ -11493,6 +11493,7 @@ triunum
 triunus
 trojanum
 trojanus
+Truldom
 truldoms
 trutinatio
 trutinationes
