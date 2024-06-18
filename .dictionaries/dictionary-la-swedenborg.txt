@@ -4747,6 +4747,7 @@ ginglymo
 ginglymos
 ginglymus
 girgasaeus
+Girgaschi
 girgaschita
 girgaschus
 girgashi
@@ -11494,6 +11495,7 @@ triunum
 triunus
 trojanum
 trojanus
+Truldom
 truldoms
 trutinatio
 trutinationes
