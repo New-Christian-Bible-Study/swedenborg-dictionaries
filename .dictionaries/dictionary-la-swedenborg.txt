@@ -1122,6 +1122,7 @@ arefactionem
 areli
 argi
 argos
+argrum
 argus
 ariana
 ariani
@@ -4704,6 +4705,7 @@ germaniae
 germaniam
 germanicorum
 germanicus
+germitationes
 gerschom
 gerschon
 gerschonis
