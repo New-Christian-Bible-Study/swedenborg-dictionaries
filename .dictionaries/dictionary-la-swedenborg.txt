@@ -1791,6 +1791,7 @@ calvino
 calvinum
 calvinus
 cambium
+Cameleo
 cameratae
 cameratas
 cameratum
@@ -1963,6 +1964,7 @@ chalebus
 chalybea
 chalybeus
 cham
+Chamathi
 chameleo
 chameleones
 chami
@@ -4705,6 +4707,7 @@ germaniae
 germaniam
 germanicorum
 germanicus
+germitationes
 gerschom
 gerschon
 gerschonis
@@ -4729,6 +4732,7 @@ gibeonem
 gibeonita
 gibeonitae
 gibeonitis
+Gichon
 gideon
 gideone
 gideonem
@@ -10392,6 +10396,7 @@ semirepletus
 semisocinianus
 semivigil
 semivigili
+Semivigilis
 seneca
 senecae
 senir
