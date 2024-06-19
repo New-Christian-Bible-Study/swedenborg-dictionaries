@@ -1963,6 +1963,7 @@ chalebus
 chalybea
 chalybeus
 cham
+Chamathi
 chameleo
 chameleones
 chami
@@ -10391,6 +10392,7 @@ semirepletus
 semisocinianus
 semivigil
 semivigili
+Semivigilis
 seneca
 senecae
 senir
