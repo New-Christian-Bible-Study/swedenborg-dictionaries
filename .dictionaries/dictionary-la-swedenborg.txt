@@ -9605,6 +9605,7 @@ redivi
 redivimus
 redolentiae
 reducibilis
+Reflectio
 refocillatio
 refocillatione
 refocillationem
