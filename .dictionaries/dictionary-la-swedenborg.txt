@@ -2275,6 +2275,7 @@ circumrotatus
 circumsaepiebatur
 circumscripserit
 circumscripsisti
+Circumsepire
 circumsepiretur
 circumspargebant
 circumsparsa
@@ -5025,6 +5026,7 @@ hebroni
 hebronis
 hecateis
 hecateus
+Hecla
 hedad
 helbon
 helbonis
