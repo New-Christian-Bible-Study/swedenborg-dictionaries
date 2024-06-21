@@ -9720,6 +9720,7 @@ rejicitur
 rejiciunt
 rejiciuntur
 relamen
+Reluxare
 reluxatio
 reluxationes
 remaliae
