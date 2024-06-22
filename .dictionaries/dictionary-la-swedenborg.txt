@@ -8891,6 +8891,7 @@ pneumatis
 poculos
 poculus
 poene
+poenitentiali
 poenitentialia
 poenitentialis
 polities
