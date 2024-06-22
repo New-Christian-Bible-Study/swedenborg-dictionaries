@@ -844,6 +844,7 @@ envelopments
 environ
 environed
 environing
+envyings
 enwrap
 Eolus
 ephahs
