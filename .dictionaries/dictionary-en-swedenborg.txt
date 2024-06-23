@@ -1128,11 +1128,14 @@ hangeth
 Hanior
 happinesses
 harboured
+hardnesses
 harlotries
 harmonical
+harmonicals
 harpers
 Hasael
 HASAEL
+Hasenmuller
 hasteth
 hatest
 hateth
@@ -1774,6 +1777,7 @@ ouches
 outbreathing
 outermosts
 outmost
+outmostly
 outmosts
 overagainst
 Overagainst
@@ -2028,6 +2032,7 @@ reagence
 Reagence
 reagency
 realise
+reapest
 reapeth
 reasonings
 Reasonings
@@ -2593,6 +2598,7 @@ unfairnesses
 unfermented
 unfoldings
 unglad
+ungladness
 unhandsome
 unhappinesses
 unharmonious
