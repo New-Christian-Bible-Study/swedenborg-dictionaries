@@ -4773,6 +4773,7 @@ glandula
 glandulam
 glandulares
 glandularis
+glirium
 glocitant
 Glocitare
 glocitat
@@ -4893,6 +4894,7 @@ gyratione
 gyrationem
 gyrationes
 gyrationis
+Gyttja
 habakkuk
 habakuk
 habel
