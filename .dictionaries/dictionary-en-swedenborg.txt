@@ -518,6 +518,7 @@ contaminations
 contextures
 continuousness
 contorsion
+contorsions
 contradictories
 contrarieties
 contrawise
