@@ -7230,6 +7230,7 @@ ligae
 ligam
 ligga
 ligis
+LIII
 lilith
 Lilliestie
 lipothymia
@@ -7241,6 +7242,7 @@ litamina
 litebatur
 liteo
 littus
+LIV
 lixantur
 lobi
 lobos
@@ -7937,6 +7939,7 @@ nabotho
 nabothus
 nachaschon
 nachaschonis
+Nactergal
 nadab
 nadabi
 nadabum
@@ -8052,6 +8055,7 @@ netorius
 newton
 newtoniana
 newtonianus
+Newtonius
 newtono
 newtonus
 nicaea
@@ -8091,6 +8095,7 @@ nimrodi
 nimrodo
 nimrodum
 nimrodus
+Nineve
 ninevita
 ninevitis
 ninivae
