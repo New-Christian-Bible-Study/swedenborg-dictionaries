@@ -838,6 +838,7 @@ enlighteneth
 enlightenments
 ensnarings
 entereth
+entwinings
 entwisted
 Enum
 enunciations
@@ -1156,11 +1157,13 @@ hencoop
 Henricus
 herbaged
 herdman
+hereditaries
 hereditarily
 heresiarchs
 Herodians
 Herodias
 Herods
+Herrenhuter
 Herrenhuters
 Herrnhuters
 HERRNHUTERS
@@ -1169,6 +1172,7 @@ Hesselius
 heterogeneities
 hewn
 Hewn
+Heygart
 hiddenly
 hidest
 highests
@@ -1180,8 +1184,10 @@ historicals
 Historicals
 Hivite
 Hivites
+Hjerne
 hoar
 Hobab
+Holborn
 holdest
 holdeth
 holies
@@ -1813,6 +1819,7 @@ pellucence
 pellucidity
 Peninnah
 peor
+Pepparotz
 perceptibility
 perceptibleness
 perceptives

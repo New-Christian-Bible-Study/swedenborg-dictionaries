@@ -1769,6 +1769,7 @@ calceavienta
 calculata
 calculaverim
 caleb
+Califieri
 caligantur
 caligarunt
 calluerat
@@ -2041,9 +2042,11 @@ chesbon
 chesbone
 chesbonem
 chesbonis
+Cheth
 chethi
 chethus
 chezron
+Chiddekel
 chiliasta
 chilkia
 chilkiah
@@ -2146,6 +2149,7 @@ chrystallinus
 chrystallis
 chrystallo
 chrystallum
+Chul
 chur
 churem
 churi
@@ -4847,6 +4851,7 @@ graminula
 graminulum
 grandisonans
 grandisonanti
+Grandisonnus
 granulatum
 granulatus
 gratitudine
@@ -5042,6 +5047,7 @@ helicone
 heliconem
 heliconeo
 heliconeum
+Heliconeus
 heliconi
 heliconides
 heliconidum
@@ -8613,6 +8619,7 @@ pennsylvania
 pensilvania
 pensylvania
 penuel
+Pepparotz
 peramant
 peramo
 perceptibiliores
@@ -10148,6 +10155,7 @@ sardibus
 sardonychus
 sarepta
 sareptam
+Sarrire
 sarriri
 satanica
 satanici
