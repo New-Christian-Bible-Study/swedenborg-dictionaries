@@ -7505,6 +7505,7 @@ marias
 martha
 martyrisatio
 martyrisationes
+Masch
 maschal
 mash
 mashal
@@ -11402,6 +11403,7 @@ thoracicam
 thoracici
 thoracicum
 thoracicus
+Threnae
 thruma
 thrumam
 thubal
