@@ -2912,6 +2912,7 @@ coordinatum
 coordinatur
 coordino
 corallia
+Coran
 coranum
 cornubus
 cornucopia
@@ -6977,6 +6978,7 @@ juvenum
 juvet
 juvo
 juxta
+Kadesch
 kadesh
 kadeshum
 kadmonita

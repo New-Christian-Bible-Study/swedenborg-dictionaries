@@ -633,6 +633,7 @@ deriders
 derivately
 derivatively
 deserteth
+desirest
 desireth
 desolations
 despairings
@@ -1452,6 +1453,7 @@ Khesib
 killedst
 killest
 killeth
+kindleth
 kindreds
 Kippur
 Kirjath
@@ -1869,6 +1871,7 @@ Pharoah
 Pharpar
 Philadelphian
 Philautie
+Philisthim
 Philistia
 Philistim
 Phinehas
@@ -2370,6 +2373,7 @@ stealeth
 stelliferous
 stercoraceous
 Stereometric
+Stierncrona
 stilleth
 stirreth
 Stjercrona
