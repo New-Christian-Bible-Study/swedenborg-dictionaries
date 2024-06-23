@@ -1399,6 +1399,7 @@ Jabbock
 jacinth
 Jacinth
 Janizaries
+Jansenists
 Jashar
 Jasher
 Javanites
@@ -1418,6 +1419,7 @@ JESPER
 Jesuitical
 Jezreel
 Jischmaelita
+Jishbak
 Joab
 Jod
 joineth
@@ -1859,6 +1861,7 @@ phantastic
 phantastical
 phantastics
 phantasy
+Phares
 Pharez
 Pharmacenticus
 pharmatic
@@ -2292,6 +2295,7 @@ silvern
 similitudes
 Similitudes
 simplicities
+Simran
 simulative
 simulatory
 Sinites

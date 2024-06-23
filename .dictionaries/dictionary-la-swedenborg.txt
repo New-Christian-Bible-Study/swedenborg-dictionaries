@@ -6432,6 +6432,7 @@ jocata
 jocatur
 jocatus
 jochebed
+Jochshan
 jocor
 joculamini
 joculantur
@@ -10657,6 +10658,7 @@ simonem
 simoni
 simonis
 simplicissimarum
+Simran
 simson
 simsone
 simsonem
