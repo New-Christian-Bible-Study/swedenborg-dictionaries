@@ -1080,6 +1080,7 @@ girdedst
 Girgashite
 Girgashites
 Gittite
+Gittith
 givest
 giveth
 Gjortz
@@ -1696,6 +1697,7 @@ Neckcloth
 nectareous
 needeth
 Negeb
+Nehiloth
 neighbour
 neighbourhood
 neighbouring
@@ -2257,8 +2259,10 @@ Shebah
 Shebna
 sheddeth
 Shelaph
+Sheminith
 shewbread
 Shibah
+Shigaion
 Shimei
 Shineab
 shineth
@@ -2268,6 +2272,7 @@ shipmaster
 shipmasters
 shittah
 Shittah
+Shoshannim
 shouldst
 showeth
 Shuah

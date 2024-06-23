@@ -2959,6 +2959,7 @@ cranio
 craniorum
 cranium
 crapulant
+Crapulare
 crapulo
 crassiuscule
 crassiusculo
