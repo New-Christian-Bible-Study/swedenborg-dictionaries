@@ -11733,6 +11733,7 @@ verosimilitudines
 verosimilitudo
 verristi
 versailles
+Versalia
 versaliae
 versaliis
 versio
@@ -11745,6 +11746,7 @@ vertumni
 vertumnus
 vesicatoria
 vesicatorium
+Vesiculus
 vespasiano
 vespasianus
 vespertilio
