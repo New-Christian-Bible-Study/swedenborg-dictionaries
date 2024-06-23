@@ -899,6 +899,7 @@ excusatory
 execrations
 executeth
 exercisest
+exercitations
 exhalative
 exinanition
 expiateth
@@ -1228,12 +1229,14 @@ idolatries
 idolatrously
 Idumaeans
 ignorances
+illuded
 imbittered
 imbuement
 Imbuement
 imbuements
 immeasurableness
 immission
+immit
 Immit
 immodesties
 immoveable
@@ -1301,6 +1304,7 @@ injoined
 injoins
 injurest
 injurings
+inleads
 inmostly
 Inmostly
 inmosts
