@@ -1341,6 +1341,7 @@ instils
 instructeth
 insufflated
 insufflates
+insufflating
 insulters
 insultings
 intelligences
@@ -2420,6 +2421,7 @@ subserved
 subserves
 subserviences
 subserving
+subsidences
 substantiality
 substantialized
 subtilization
@@ -2517,6 +2519,7 @@ thirsteth
 thraldom
 threatenings
 threefoldness
+thrustings
 thummin
 thundereth
 thunderings
