@@ -2008,6 +2008,7 @@ pullings
 pulmonic
 Pulmonic
 pulsative
+punctated
 punctations
 punctuations
 pungencies
