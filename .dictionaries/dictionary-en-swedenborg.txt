@@ -1510,6 +1510,7 @@ leipothymia
 Lejel
 lendeth
 leprosies
+Lernaean
 Lernean
 lessenings
 levelled
@@ -1685,6 +1686,7 @@ myrrhated
 myrrhed
 Naaman
 Nabal
+Naboth
 Nachor
 Nain
 nakednesses
