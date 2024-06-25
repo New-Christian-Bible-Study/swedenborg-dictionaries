@@ -1504,6 +1504,7 @@ learnt
 leasts
 leathern
 leaveth
+Leekgreen
 legalists
 legband
 Leibnitz
@@ -1952,6 +1953,7 @@ predications
 prelection
 premeditatation
 premeditatedly
+preordinated
 preparest
 prepareth
 preservations

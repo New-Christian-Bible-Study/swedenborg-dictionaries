@@ -7327,6 +7327,7 @@ lyceum
 lychnare
 lychnaria
 lychnaribus
+Lychnarium
 lydii
 lydius
 maacah
