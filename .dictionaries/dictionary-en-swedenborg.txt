@@ -790,6 +790,7 @@ effigiates
 effigied
 efflorescing
 effluviae
+effluvious
 egermination
 Eglon
 egression
@@ -1779,6 +1780,7 @@ openeth
 opobalsam
 oppositeness
 oppressions
+oppugnancy
 ordinated
 ordinately
 ordinating
@@ -2368,6 +2370,7 @@ speaketh
 spectre
 Spectre
 spectres
+Spegel
 spelt
 Spelt
 spermatic
