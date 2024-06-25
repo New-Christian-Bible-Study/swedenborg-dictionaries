@@ -4805,6 +4805,7 @@ gogo
 gogum
 gogus
 goiim
+Gojim
 goliatho
 goliathum
 goliathus
@@ -7047,6 +7048,7 @@ kezib
 kibroth
 kiiun
 kijun
+Kikajo
 kilmad
 kir
 kiriath
