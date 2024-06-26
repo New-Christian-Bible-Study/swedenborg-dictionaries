@@ -585,6 +585,7 @@ aetnam
 affectiuncula
 affectiunculae
 affectiunculas
+afferem
 affinior
 africa
 africae
@@ -2081,6 +2082,7 @@ chivita
 chivitam
 Chobah
 chocolad
+Choinix
 chomer
 chomere
 chomeres
@@ -7060,6 +7062,7 @@ kittaeorum
 kittaeus
 kitthim
 kittim
+konster
 korach
 korachi
 korachita
@@ -7510,6 +7513,7 @@ mariae
 mariam
 marias
 martha
+Martyra
 martyrisatio
 martyrisationes
 Masch
@@ -7630,6 +7634,7 @@ meribah
 meriboth
 merodacho
 merodachus
+Mescha
 meschech
 mesentericis
 mesentericus
