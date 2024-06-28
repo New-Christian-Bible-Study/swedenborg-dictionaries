@@ -7146,12 +7146,15 @@ Lantiginosus
 laodicea
 laodiceam
 laodicensem
+Laodicenses
 laodicensi
 laodicensis
 laodicensium
 lappones
 lapponia
 lapponiae
+Lapsarian
+Lapsarii
 lapsariis
 lapsarius
 larynge
@@ -7159,6 +7162,7 @@ laryngem
 laryngi
 laryngis
 larynx
+Lascha
 lasciviverit
 lasha
 lateranensi
