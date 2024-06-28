@@ -9900,6 +9900,7 @@ respublicas
 restitu
 restrictorium
 restrictorius
+restrictory
 resultaverint
 resuscitabile
 resuscitabilis
@@ -11665,6 +11666,7 @@ uphasus
 uphaz
 uphazi
 upheavings
+Upsalia
 ur
 uranos
 ureter
@@ -11698,6 +11700,7 @@ usquedum
 ussiel
 Usufructus
 usufruendum
+Usufrui
 usufruor
 usuraria
 usurariae
