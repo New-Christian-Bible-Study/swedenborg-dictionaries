@@ -11559,6 +11559,7 @@ trojanum
 trojanus
 Truldom
 truldoms
+trulldom
 trutinatio
 trutinationes
 tubal
