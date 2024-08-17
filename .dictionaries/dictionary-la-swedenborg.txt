@@ -2437,6 +2437,7 @@ collateraliter
 colligamentum
 collimando
 collimant
+Collimare
 collimaret
 collimat
 collimatio
