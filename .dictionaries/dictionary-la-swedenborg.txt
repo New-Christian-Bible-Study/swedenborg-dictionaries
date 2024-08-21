@@ -414,6 +414,7 @@ adjurationem
 adjuraverit
 adjuravit
 adjuro
+adjustum
 adjuta
 adjutas
 adjuti
@@ -11211,6 +11212,7 @@ supraspiritualis
 supraspiritualiter
 susceptibiliores
 susceptibilitas
+Suthermalchia
 Suzim
 Svecicae
 swammerdam
@@ -11610,7 +11612,6 @@ undatione
 undenam
 undequaque
 undequavis
-underlig
 undulabant
 undulando
 undulans
