@@ -8610,6 +8610,8 @@ pegasis
 pegaso
 pegasum
 pegasus
+peira
+peirasmos
 pejerabis
 pejerans
 pejerantem
