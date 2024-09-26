@@ -2895,6 +2895,7 @@ contranituntur
 contravolutio
 contravolutionem
 controvertatur
+Controvertere
 controverti
 controvertitur
 controverto
@@ -7069,6 +7070,7 @@ kittaeus
 kitthim
 kittim
 konster
+koppor
 korach
 korachi
 korachita
