@@ -2027,6 +2027,8 @@ provings
 proximately
 proximates
 proximities
+Pruninghook
+pruninghooks
 Ps
 psalmbooks
 Psalmodies
@@ -2074,6 +2076,7 @@ Rahba
 Rahbath
 raineth
 raiseth
+Ramath
 Raphaels
 rapines
 Ratiociation

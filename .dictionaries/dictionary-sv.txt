@@ -3,6 +3,7 @@ börse
 bränvin
 Filenius
 gaffel
+Gripenhjelm
 Hakbrade
 Hissna
 knif
@@ -13,6 +14,7 @@ Ostergylen
 Ryssland
 sax
 secretar
+Silfverstrom
 Silfwerstrom
 Trollslander
 underlig
