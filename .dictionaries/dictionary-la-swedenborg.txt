@@ -3023,6 +3023,7 @@ cuticulari
 cuticularia
 cuticularis
 cuticularium
+Cuticulus
 cyclopes
 cyclops
 cynosura
@@ -3414,6 +3415,7 @@ didascali
 didascalorum
 didascalos
 didascalus
+didasculi
 Didasculus
 diffluxit
 diffregerunt
@@ -4915,6 +4917,7 @@ gyrationem
 gyrationes
 gyrationis
 Gyttja
+Haag
 habakkuk
 habakuk
 habel
@@ -9503,6 +9506,7 @@ quaquerismo
 quaquerismus
 quaqueros
 Quaquerus
+quartans
 quartodecimani
 quaterno
 quaternus
@@ -10519,6 +10523,7 @@ septimalis
 septuplus
 sepulchrales
 sepulchralis
+Serach
 serah
 seraphim
 sered
@@ -10698,6 +10703,7 @@ simoni
 simonis
 simplicissimarum
 Simran
+Simri
 simson
 simsone
 simsonem
@@ -10745,12 +10751,14 @@ sithri
 sitibundi
 sitibundus
 sitnah
+Situari
 sixto
 sixtus
 sloan
 smalcaldici
 smalcaldicis
 smalcaldicus
+Smyrnaei
 smyrnaeorum
 smyrnaeus
 smyrnensi
@@ -11280,6 +11288,7 @@ tabacum
 tabera
 tacitissimi
 taedent
+Taedius
 tahash
 talglius
 tamar
@@ -11412,6 +11421,7 @@ tharschish
 tharschishi
 tharschisho
 tharshish
+Thartan
 thau
 the
 thea
@@ -11429,9 +11439,12 @@ theraphim
 theruma
 therumae
 therumam
+Thessalonicencis
 thessalonicensi
 thessalonicensis
+Thideal
 Thiras
+Thogarmah
 thoma
 thomae
 thomam
@@ -11451,6 +11464,7 @@ thumim
 thummim
 thurcicus
 thyatira
+Thyatirae
 thyatirensi
 thyatirensis
 thyatiriensis

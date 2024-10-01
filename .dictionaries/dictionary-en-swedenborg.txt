@@ -207,6 +207,7 @@ awaked
 awaketh
 axillary
 Azal
+azygos
 Azzah
 baals
 Baasha
@@ -2188,6 +2189,7 @@ ruleth
 Rumah
 ruminatory
 rumours
+Saalfeld
 Sabeans
 sacerdus
 sacrification
@@ -2338,6 +2340,7 @@ similitudes
 Similitudes
 simplicities
 Simran
+Simri
 simulative
 simulatory
 Sinites
