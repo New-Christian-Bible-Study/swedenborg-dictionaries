@@ -2414,6 +2414,7 @@ Cognitivus
 cohobatio
 cohobatur
 cohobo
+Cohorrere
 coincidant
 coincidat
 coincidebant
@@ -4984,6 +4985,7 @@ ham
 hamath
 hamathi
 hamburgenses
+Hamburgum
 hamor
 hamore
 hamorem
@@ -8836,6 +8838,7 @@ philadelphiam
 philadelphiensi
 philadelphiensis
 philautia
+philautie
 phileto
 philetus
 Philiosophiae
@@ -8969,6 +8972,7 @@ polygamos
 polygamum
 polygamus
 populosiorem
+Porath
 porcellanus
 porosum
 porosus
@@ -10150,6 +10154,7 @@ samuele
 samuelem
 samueli
 samuelis
+sanatorian
 Sancherib
 sancheribi
 sancheribo
