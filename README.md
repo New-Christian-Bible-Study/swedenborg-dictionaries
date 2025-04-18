@@ -79,6 +79,10 @@ Create `.vscode/settings.json` with the following content. (If the file already 
 }
 ```
 
+#### 4. Install any Code Spell Checker language extensions of interest
+
+The **Language Dictionaries** section of [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) lists extensions that can be installed to add support for additional languages. For example, there are Latin and Swedish language extensions available.
+
 ### Using the spell checker
 
 ### Code Spell Checker
