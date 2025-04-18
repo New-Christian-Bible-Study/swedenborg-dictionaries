@@ -9,6 +9,7 @@ The dictionary files in the directory are used to help spell check scans of work
 | [dictionary-la-swedenborg.txt](./dictionary-la-swedenborg.txt) | Latin words unique to Swedenborg's works |
 | [dictionary-la-lewis-short.txt](./dictionary-la-lewis-short.txt) | Latin dictionary provided by Charlton T. Lewis and Charles Short (Oxford 1891) found [here](https://sourceforge.net/projects/scrabble/files/Dictionaries/latin.zip/download) |
 | [dictionary-sv.txt](./dictionary-sv.txt) | Swedish words |
+| [concordance-words.txt](./concordance-words.txt) | Concordance words (PPEs) |
 
 ## Using the dictionaries for spell checking in Visual Studio Code
 
@@ -28,7 +29,7 @@ In the root directory of your repository create a directory named `.dictionaries
 
 #### 3. Configure the spell checker to use the dictionary files
 
-Create `.vscode/settings.json` with the following content. (If the file already exists excluded the top and bottom braces.)
+Create `.vscode/settings.json` with the following content. (If the file already exists, exclude the top and bottom braces.)
 
 ```
 {
@@ -46,7 +47,7 @@ Create `.vscode/settings.json` with the following content. (If the file already 
       "name": "Swedenborg Works abbreviations",
       "path": "${workspaceFolder}/.dictionaries/dictionary-works-abbrev.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
@@ -64,9 +65,14 @@ Create `.vscode/settings.json` with the following content. (If the file already 
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
       "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
+    },
+    "Concordance": {
+      "name": "Concordance words (PPEs) (do not modify)",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
+      "scope": "workspace",
+      "addWords": false
     }
-
   },
 
   // Add entries to cSpell.enabledFileTypes to enable spell checking for types not recognized by default.
