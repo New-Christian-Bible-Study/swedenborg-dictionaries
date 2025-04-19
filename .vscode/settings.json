@@ -1,0 +1,87 @@
+{
+
+"cSpell.words": [
+  "swconcord",
+  "adoc"
+  ],
+
+"cSpell.language": "en-US,la,sv,en-GB",
+
+"cSpell.customDictionaries": {
+    "swedenborgEnglish": {
+      "name": "Swedenborg English words",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-en-swedenborg.txt",
+      "scope": "workspace",
+      "addWords": true
+    },
+    "swedenborgWorksAbbrevs": {
+      "name": "Swedenborg Works abbreviations",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-works-abbrev.txt",
+      "scope": "workspace",
+      "addWords": false
+    },
+    "swedenborgLatin": {
+      "name": "Swedenborg Latin words",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-la-swedenborg.txt",
+      "scope": "workspace",
+      "addWords": true
+    },
+    "Swedish": {
+      "name": "Swedish dictionary",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-sv.txt",
+      "scope": "workspace",
+      "addWords": false
+    },
+    "Latin": {
+      "name": "Latin dictionary provided by Lewis and Short (do not modify)",
+      "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
+      "scope": "workspace",
+      "addWords": false
+    },
+    "concordance-words": {
+      "name": "concordance-words",
+      "path": "${workspaceFolder}/.dictionaries/concordance-words.txt",
+      "description": "Words used in this project",
+      "addWords": false
+    },
+    "proper-names": {
+      "name": "proper-names",
+      "path": "${workspaceFolder}/.dictionaries/proper-names.txt",
+      "description": "Proper Names",
+      "addWords": true
+    },
+    "old-style": {
+      "name": "old-style",
+      "path": "${workspaceFolder}/.dictionaries/old-style.txt",
+      "description": "Old Style [...(est|eth)]",
+      "addWords": true
+    },
+   "project-words": {
+      "name": "project-words",
+      "path": "${workspaceFolder}/.dictionaries/project-words.txt",
+      "description": "Words used in this project",
+      "addWords": true
+    }
+  },
+
+"cSpell.minWordLength": 2,
+
+"cSpell.enabledFileTypes": {
+  "asciidoc": true,
+  "txt": true
+},
+
+
+// Always assume first line of CSV file is the header
+"csv-edit.readOption_hasHeader": "true",
+
+// Don't show distracting git diffs in overview ruler
+"scm.diffDecorations": "none",
+
+"asciidoc.preview.asciidoctorAttributes": {
+  },
+  "cSpell.showAutocompleteDirectiveSuggestions": false,
+
+
+}
+
