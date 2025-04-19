@@ -10,6 +10,8 @@ The dictionary files in the directory are used to help spell check scans of work
 | [dictionary-la-lewis-short.txt](./dictionary-la-lewis-short.txt) | Latin dictionary provided by Charlton T. Lewis and Charles Short (Oxford 1891) found [here](https://sourceforge.net/projects/scrabble/files/Dictionaries/latin.zip/download) |
 | [dictionary-sv.txt](./dictionary-sv.txt) | Swedish words |
 | [concordance-words.txt](./concordance-words.txt) | Concordance words (PPEs) |
+| [proper-names.txt](./proper-names.txt) | Proper Names |
+| [old-style.txt](./old-style.txt) | old style usage (incl. Biblical) |
 
 ## Using the dictionaries for spell checking in Visual Studio Code
 
