@@ -92,6 +92,7 @@ Arvadites
 Asaph
 Ashdod
 Ashdodites
+Ashterah
 Ashur
 Ashurim
 Askenas
@@ -837,6 +838,7 @@ Synnestvedt
 Syrophoenician
 Tabrets
 Tafel
+Tahpanhes
 Tamar
 Tartaruses
 Tatian

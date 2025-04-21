@@ -1,20 +1,3 @@
-bakemeat
-changeth
-containent
-dissentions
-enhungered
-inbuilding
-salvability
-seemeth
-shapen
-sheweth
-showbreads
-smiteth
-springeth
-stiffnecked
-trembleth
-uttereth
-verimost
 abideth
 accuseth
 addeth
@@ -29,6 +12,7 @@ ariseth
 ascendeth
 asketh
 awaketh
+bakemeat
 beareth
 becamest
 becometh
@@ -41,6 +25,7 @@ blest
 blindeth
 bloweth
 breakest
+breaketh
 breatheth
 bringeth
 broughtest
@@ -55,6 +40,8 @@ casteth
 causest
 causeth
 ceaseth
+changeth
+cheereth
 Chinnereth
 choosest
 cleaveth
@@ -65,6 +52,7 @@ Cometh
 comforteth
 committeth
 compasseth
+containent
 coucheth
 counteth
 covereth
@@ -75,6 +63,7 @@ curseth
 cutteth
 deceiveth
 defileth
+delighteth
 delivereth
 deniest
 deserteth
@@ -86,6 +75,7 @@ dieth
 discerneth
 disperseth
 disposest
+dissentions
 doest
 doeth
 drawest
@@ -100,6 +90,7 @@ earneth
 eatest
 eateth
 endureth
+enhungered
 enlighteneth
 entereth
 exalteth
@@ -109,6 +100,7 @@ expiateth
 fadeth
 faileth
 falleth
+fashioneth
 fearest
 feedeth
 fetcheth
@@ -125,6 +117,7 @@ gatherest
 gathereth
 gavest
 generatest
+girdeth
 givest
 giveth
 goest
@@ -139,10 +132,13 @@ heapeth
 hearest
 heareth
 heedeth
+helpeth
 hidest
 holdest
 holdeth
 honoureth
+inbuilding
+inhabiteth
 injurest
 inquireth
 instructeth
@@ -192,6 +188,8 @@ multiplieth
 needeth
 offereth
 openeth
+outbirth
+outbirths
 overcometh
 overlayeth
 panteth
@@ -212,6 +210,7 @@ proclaimest
 profaneth
 profiteth
 proveth
+provoketh
 purgeth
 puttest
 putteth
@@ -242,6 +241,7 @@ riseth
 roareth
 rulest
 ruleth
+salvability
 sanctifieth
 satisfieth
 savourest
@@ -252,6 +252,7 @@ searcheth
 seduceth
 seekest
 seeketh
+seemeth
 seest
 seeth
 seizeth
@@ -260,11 +261,15 @@ sendest
 sendeth
 settest
 setteth
+shapen
 sharpeneth
 sheddeth
+sheweth
 shineth
+showbreads
 showeth
 shutteth
+sinneth
 sittest
 sitteth
 sleepeth
@@ -276,9 +281,11 @@ soweth
 spakest
 speaketh
 spreadeth
+springeth
 standest
 standeth
 stealeth
+stiffnecked
 stilleth
 stirreth
 stoppeth
@@ -298,10 +305,14 @@ thundereth
 toucheth
 travailest
 treadeth
+trembleth
 troubleth
 trustest
 turneth
 understandest
+upholdeth
+uttereth
+verimost
 waketh
 walketh
 wandereth
@@ -318,4 +329,5 @@ withereth
 withholdeth
 worketh
 wouldest
+writest
 yieldeth
