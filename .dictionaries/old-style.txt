@@ -128,6 +128,7 @@ hangeth
 hasteth
 hatest
 hateth
+healeth
 heapeth
 hearest
 heareth
@@ -279,6 +280,7 @@ snatcheth
 sojourneth
 soweth
 spakest
+speakest
 speaketh
 spreadeth
 springeth
@@ -300,6 +302,7 @@ teachest
 teacheth
 tellest
 testifieth
+thinkest
 thirsteth
 thundereth
 toucheth
