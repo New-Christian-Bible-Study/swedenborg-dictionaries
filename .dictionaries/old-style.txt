@@ -45,6 +45,7 @@ cheereth
 Chinnereth
 choosest
 cleaveth
+climbeth
 closeth
 clothest
 cometh
@@ -52,6 +53,7 @@ Cometh
 comforteth
 committeth
 compasseth
+consisteth
 containent
 coucheth
 counteth
@@ -203,6 +205,7 @@ permittest
 persevereth
 Perverteth
 pineth
+possesseth
 preparest
 prepareth
 preservest
@@ -229,6 +232,7 @@ redeemeth
 refuseth
 reigneth
 rejecteth
+rejoiceth
 remaineth
 rememberest
 remembereth
@@ -295,6 +299,7 @@ stoppeth
 stretcheth
 striketh
 stumbleth
+suffereth
 supporteth
 sweareth
 takest
@@ -304,6 +309,7 @@ teacheth
 tellest
 testifieth
 thinkest
+thinketh
 thirsteth
 thundereth
 toucheth
