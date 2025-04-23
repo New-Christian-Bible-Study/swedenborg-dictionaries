@@ -491,6 +491,7 @@ Kenizzite
 Kephas
 Kesib
 Khesib
+Kingslake
 Kippur
 Kirjath
 Kishon
@@ -532,6 +533,7 @@ Machpelah
 Maclagan
 Mahalaleel
 Mahaleel
+Mahommedan
 Mahumed
 Makkeda
 Makkedah
@@ -558,6 +560,7 @@ Meshach
 Methusael
 Methuschael
 Methuschelach
+MHR
 Michaels
 Midianite
 Midianites
