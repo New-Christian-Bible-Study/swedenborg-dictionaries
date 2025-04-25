@@ -188,6 +188,7 @@ looseth
 lovest
 Lovest
 loveth
+lusteth
 madest
 makest
 maketh
@@ -312,6 +313,7 @@ stirreth
 stoppeth
 stretcheth
 striketh
+striveth
 stumbleth
 suffereth
 sufficeth

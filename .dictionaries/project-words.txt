@@ -1,8 +1,16 @@
+Abelites
 Asciidoctor
+bowest
+Cainitish
 camest
 detre
+hideth
 loweralpha
 lowerroman
 olist
+ownhood
+Sethite
+supersensuous
+unheavenly
 upperalpha
 upperroman

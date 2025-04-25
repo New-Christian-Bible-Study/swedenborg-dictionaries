@@ -278,6 +278,7 @@ Endeavour
 Eneas
 Engraft
 Enlightener
+Enochites
 Enum
 Enunciations
 Enunciators
@@ -377,6 +378,7 @@ Hadradrimmon
 Hagarene
 Hagarenes
 Hamathites
+Hamitish
 Hanior
 Haran
 Hasael
@@ -772,12 +774,14 @@ Semisocinian
 Sensuouses
 Sepulchre
 Serosity
+Sethites
 Shadrach
 Shebah
 Shebna
 Shelaph
 Shem
 Sheminith
+Shemitic
 Shibah
 Shigaion
 Shimei

@@ -1612,6 +1612,7 @@ unextinguishable
 unfairnesses
 unfermented
 unfoldings
+unfoldment
 unglad
 ungladness
 unglorified
