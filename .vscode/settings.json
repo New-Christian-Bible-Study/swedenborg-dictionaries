@@ -1,13 +1,32 @@
 {
+"mhr.removed": "la,sv,en-GB",
+"cSpell.language": "en-US",
+
+"cSpell.enabledFileTypes": {
+  "asciidoc": true,
+  "txt": true
+},
+
+"cSpell.allowCompoundWords": false,
+"cSpell.numSuggestions": 3,
+"cSpell.suggestionMenuType": "quickFix",
 
 "cSpell.words": [
   "swconcord",
   "adoc"
   ],
 
-"cSpell.language": "en-US,la,sv,en-GB",
-
+"cSpell.flagWords": [
+  "Lords:Lord's",
+  "Gods->God's",
+  "Jehovahs->Jehovah's",
+  "natures: nature's",
+  "mans: man's"
+],
+  
 "cSpell.customDictionaries": {
+
+
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
@@ -22,19 +41,19 @@
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Swedish": {
       "name": "Swedish dictionary",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
       "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
       "addWords": false
     },
@@ -67,12 +86,7 @@
     }
   },
 
-"cSpell.minWordLength": 2,
-
-"cSpell.enabledFileTypes": {
-  "asciidoc": true,
-  "txt": true
-},
+"cSpell.minWordLength": 3,
 
 
 // Always assume first line of CSV file is the header
@@ -83,8 +97,9 @@
 
 "asciidoc.preview.asciidoctorAttributes": {
   },
-  "cSpell.showAutocompleteDirectiveSuggestions": false,
 
 
 }
+
+// https://streetsidesoftware.com/vscode-spell-checker/docs/configuration
 
