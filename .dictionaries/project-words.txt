@@ -1,10 +1,14 @@
 Abelites
 Asciidoctor
+Bicking
 bowest
 BSN
 Cainitish
 camest
+Clapp
+Colman
 detre
+Guilbert
 hideth
 loweralpha
 lowerroman
@@ -12,7 +16,10 @@ olist
 ownhood
 Sethite
 sophistications
+Southworth
 supersensuous
+unchangeableness
+underived
 unheavenly
 upperalpha
 upperroman

@@ -468,7 +468,6 @@ Jephtha
 Jer
 Jerubbaal
 Jerusalemite
-Jerusalems
 JESPER
 Jesuitical
 Jezreel
@@ -615,6 +614,7 @@ Nethaniah
 Newchurchmanship
 Newsmonger
 NIC
+Nicea
 Nicolaitanes
 Nicolaitans
 Nidorous

@@ -220,6 +220,7 @@ persevereth
 Perverteth
 pineth
 possesseth
+prayeth
 preparest
 prepareth
 preservest
@@ -322,6 +323,7 @@ supporteth
 sweareth
 takest
 taketh
+talketh
 teachest
 teacheth
 tellest
