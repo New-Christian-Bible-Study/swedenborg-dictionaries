@@ -360,6 +360,7 @@ deliciousnesses
 delightfulness
 delitiated
 delitiation
+demarked
 demersions
 demission
 dephlegmate
@@ -1004,7 +1005,6 @@ morever
 motorics
 motories
 motory
-moulded
 mouldiness
 moulding
 mouldy
@@ -1543,6 +1543,7 @@ tranquillizes
 transcendency
 transferences
 transflowed
+transflowing
 transflows
 transflux
 translucid
@@ -1657,6 +1658,9 @@ unterminated
 unterminately
 untranquil
 unwinged
+upbuilds
+upbuilt
+updrawn
 uranus
 urgencies
 urinatory

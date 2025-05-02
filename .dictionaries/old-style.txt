@@ -1,3 +1,4 @@
+abhorrest
 abideth
 accuseth
 addeth
@@ -56,6 +57,7 @@ Cometh
 comforteth
 committeth
 compasseth
+comprehendeth
 condemneth
 considereth
 consisteth
@@ -193,12 +195,15 @@ lusteth
 madest
 makest
 maketh
+malforms
 marcheth
 marketh
 mayest
 meditateth
 meetest
 melteth
+moderative
+moulded
 mourneth
 moveth
 multiplieth
@@ -252,9 +257,11 @@ remaineth
 rememberest
 remembereth
 remittest
+remoulded
 removeth
 renewest
 repenteth
+restoral
 restoreth
 revealeth
 rideth
