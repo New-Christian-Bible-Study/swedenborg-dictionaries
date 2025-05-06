@@ -22,6 +22,7 @@ believest
 Believest
 believeth
 besiegest
+betrayeth
 blesseth
 blest
 blindeth
@@ -60,6 +61,7 @@ committeth
 compasseth
 comprehendeth
 condemneth
+conditionment
 considereth
 consisteth
 containent
@@ -276,6 +278,7 @@ ruleth
 salvability
 sanctifieth
 satisfieth
+savorest
 savourest
 sawest
 scattereth
@@ -328,6 +331,7 @@ stretcheth
 striketh
 striveth
 stumbleth
+subtilty
 suffereth
 sufficeth
 supporteth
@@ -364,6 +368,7 @@ washeth
 wasteth
 watcheth
 watereth
+weepest
 wentest
 willest
 willeth
