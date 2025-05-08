@@ -6,8 +6,10 @@ adornest
 adorneth
 afflictest
 aileth
+altereth
 answereth
 appeareth
+appointeth
 approachest
 ariseth
 ascendeth
@@ -109,6 +111,7 @@ endureth
 enhungered
 enlighteneth
 entereth
+establisheth
 exalteth
 executeth
 exercisest
@@ -156,6 +159,7 @@ hidest
 holdest
 holdeth
 honoureth
+hosen
 inbuilding
 inhabiteth
 injurest
@@ -207,11 +211,13 @@ mayest
 meditateth
 meetest
 melteth
+mightest
 moderative
 moulded
 mourneth
 moveth
 multiplieth
+musick
 needeth
 oer
 offereth
@@ -256,6 +262,7 @@ reapeth
 receiveth
 redeemeth
 refuseth
+regardeth
 reigneth
 rejecteth
 rejoiceth
@@ -267,6 +274,8 @@ remoulded
 removeth
 renewest
 repenteth
+requireth
+rescueth
 restoral
 restoreth
 revealeth
@@ -294,6 +303,7 @@ seizeth
 selleth
 sendest
 sendeth
+servest
 settest
 setteth
 shapen
@@ -331,6 +341,7 @@ stretcheth
 striketh
 striveth
 stumbleth
+subdueth
 subtilty
 suffereth
 sufficeth
@@ -347,6 +358,7 @@ thinkest
 thinketh
 thirsteth
 thoughtest
+threshingfloors
 thundereth
 toucheth
 travailest
@@ -376,6 +388,7 @@ wishest
 withereth
 withholdeth
 worketh
+worshippeth
 wouldest
 writest
 yieldeth

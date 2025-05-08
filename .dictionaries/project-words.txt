@@ -1,5 +1,7 @@
 Abelites
+anthropos
 Asciidoctor
+biblemeanings
 Bicking
 bowest
 BSN
@@ -15,6 +17,7 @@ Guilbert
 hideth
 loweralpha
 lowerroman
+lukos
 olist
 ownhood
 selfestimate
