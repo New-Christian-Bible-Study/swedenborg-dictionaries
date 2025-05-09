@@ -25,6 +25,7 @@ Believest
 believeth
 besiegest
 betrayeth
+bindeth
 blesseth
 blest
 blindeth
@@ -100,6 +101,7 @@ dreameth
 drinkest
 drinketh
 driveth
+dureth
 dwellest
 dwelleth
 earneth
@@ -108,6 +110,7 @@ eateth
 elementaries
 encampeth
 endureth
+energised
 enhungered
 enlighteneth
 entereth
@@ -208,6 +211,8 @@ malforms
 marcheth
 marketh
 mayest
+meagre
+meaneth
 meditateth
 meetest
 melteth
@@ -222,6 +227,7 @@ needeth
 oer
 offereth
 openeth
+organised
 outbirth
 outbirths
 overcometh
@@ -257,9 +263,14 @@ raiseth
 reacheth
 readest
 readeth
+realisation
+realised
+realises
+realising
 reapest
 reapeth
 receiveth
+recognising
 redeemeth
 refuseth
 regardeth
@@ -311,6 +322,7 @@ sharpeneth
 sheddeth
 sheweth
 shineth
+shouldest
 showbreads
 showeth
 shutteth
