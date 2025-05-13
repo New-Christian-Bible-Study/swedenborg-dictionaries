@@ -20,6 +20,7 @@ bakemeat
 beareth
 becamest
 becometh
+bedarkened
 believest
 Believest
 believeth
@@ -81,6 +82,7 @@ deceiveth
 defileth
 delighteth
 delivereth
+demeanour
 deniest
 departeth
 deserteth
@@ -90,6 +92,7 @@ destroyest
 devoureth
 dieth
 discerneth
+disfavour
 disperseth
 disposest
 dissentions
@@ -381,6 +384,7 @@ trustest
 turneth
 understandest
 understandeth
+unmistakenly
 upholdeth
 uttereth
 verimost
