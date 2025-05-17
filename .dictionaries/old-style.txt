@@ -227,6 +227,7 @@ moveth
 multiplieth
 musick
 needeth
+Noahtic
 oer
 offereth
 openeth
@@ -244,6 +245,7 @@ permittest
 persevereth
 Perverteth
 pineth
+plaister
 possesseth
 prayeth
 preparest
@@ -385,6 +387,7 @@ turneth
 understandest
 understandeth
 unmistakenly
+Upharsin
 upholdeth
 uttereth
 verimost

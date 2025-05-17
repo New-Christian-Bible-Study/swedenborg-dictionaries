@@ -83,6 +83,7 @@ ARIADE
 Arian
 Arians
 Arimathea
+Arioch
 Aristotelians
 Arkite
 Arkites
@@ -93,6 +94,7 @@ Arvadites
 Asaph
 Ashdod
 Ashdodites
+Ashpenaz
 Ashterah
 Ashur
 Ashurim
@@ -107,6 +109,7 @@ Aulen
 Avel
 Avim
 Azal
+Azariah
 Azzah
 Baasha
 Babylonish
@@ -261,6 +264,7 @@ Dort
 Duell
 Duker
 Dulness
+Dura
 Ebenezer
 EBENEZER
 Eber
@@ -382,6 +386,7 @@ Hagarene
 Hagarenes
 Hamathites
 Hamitish
+Hananiah
 Hanior
 Haran
 Hasael
@@ -561,6 +566,7 @@ Medes
 Megiddo
 Melancthon
 Melancthonism
+Melzar
 Memoires
 Meni
 Merrell
@@ -579,6 +585,7 @@ Milkah
 Mineola
 Minories
 Mischpath
+Mishael
 Mishmah
 Mitzraim
 Mizpeh
@@ -855,6 +862,7 @@ Syene
 Syncretism
 Syncretist
 Synnestvedt
+Syriack
 Syrophoenician
 Tabrets
 Tafel
