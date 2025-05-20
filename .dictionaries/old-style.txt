@@ -395,6 +395,7 @@ Upharsin
 upholdeth
 uttereth
 verimost
+waiteth
 waketh
 walketh
 wandereth
