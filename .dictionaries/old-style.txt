@@ -76,6 +76,7 @@ covereth
 creepeth
 criest
 crieth
+crusheth
 cursedst
 curseth
 cutteth
@@ -397,6 +398,7 @@ uttereth
 verimost
 waiteth
 waketh
+walkest
 walketh
 wandereth
 wantest
