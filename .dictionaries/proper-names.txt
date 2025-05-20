@@ -70,6 +70,7 @@ Ang
 Anointing
 Antediluvians
 AntiChurch
+Antiochus
 Apoc
 APOLLO
 Apollyons
@@ -295,6 +296,7 @@ Ephraimites
 Ephratah
 Ephrathah
 Ephron
+Epiphanes
 Ericus
 Erland
 Ernesti
@@ -376,6 +378,7 @@ Gnuggismus
 Gothenburg
 Gottenburg
 Graff
+Grecia
 Gustaf
 Gustave
 Gyllenborg
@@ -488,6 +491,7 @@ Joab
 Joash
 Jod
 Jonadab
+Josedech
 Jotham
 Juger
 Jurgare
@@ -773,6 +777,7 @@ Sceptre
 Schechem
 Schelach
 Schelemon
+Schmidius
 Schmidus
 Schnorr
 Scholastics
@@ -896,6 +901,7 @@ Tubalcain
 Tubulated
 Tulk
 Twofoldedness
+Ulai
 Ulrica
 Unclosing
 Uncreate

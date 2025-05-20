@@ -24,6 +24,7 @@ bedarkened
 believest
 Believest
 believeth
+belongeth
 besiegest
 betrayeth
 bindeth
@@ -137,6 +138,7 @@ fleddest
 fleeth
 flieth
 fluttereth
+forgivenesses
 forsaketh
 gaspeth
 gatherest
@@ -296,6 +298,7 @@ restoral
 restoreth
 revealeth
 rideth
+righteousnesses
 riseth
 roareth
 rulest
@@ -319,6 +322,7 @@ seizeth
 selleth
 sendest
 sendeth
+Seraiah
 servest
 settest
 setteth
