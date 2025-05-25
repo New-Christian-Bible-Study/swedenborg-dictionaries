@@ -575,6 +575,7 @@ extravasations
 exultations
 faithfulnesses
 fallaciousness
+falses
 familiarities
 fanaticisms
 fascicular
@@ -935,6 +936,7 @@ lessenings
 levelled
 levirate
 licence
+Licet
 lilood
 lividity
 livingness
