@@ -18,6 +18,7 @@ hideth
 loweralpha
 lowerroman
 lukos
+mis
 olist
 ownhood
 selfestimate
@@ -27,6 +28,7 @@ sophistications
 Southworth
 superconscious
 supersensuous
+tav
 theophanies
 unchangeableness
 underived

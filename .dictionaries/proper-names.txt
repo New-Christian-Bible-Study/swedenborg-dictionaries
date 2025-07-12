@@ -271,6 +271,7 @@ EBENEZER
 Eber
 Ecc
 Edipus
+Edomites
 Eglon
 Ehrenpreus
 Ehud
@@ -413,6 +414,7 @@ Hesselius
 Hewn
 Heygart
 Hierosolyma
+Hilkiah
 Hindmarsh
 Historicals
 Hivite
@@ -425,6 +427,7 @@ Homogeneities
 Honour
 Honours
 Hophni
+hophrah
 Hopken
 Horite
 Horites
@@ -461,6 +464,7 @@ Islington
 Israelites
 Israelitish
 Ithamar
+Jaazaniah
 Jabbock
 Jacinth
 Janizaries
@@ -490,6 +494,7 @@ Jishbak
 Joab
 Joash
 Jod
+Johanan
 Jonadab
 Josedech
 Jotham
@@ -559,6 +564,7 @@ Mamre
 Manassites
 Manoah
 Marah
+Marsyas
 Martyrization
 Masorites
 Mattaniah
@@ -795,10 +801,12 @@ Sepulchre
 Serosity
 Sethites
 Shadrach
+Shaphan
 Shebah
 Shebna
 Shelaph
 Shem
+shemesh
 Sheminith
 Shemitic
 Shibah
