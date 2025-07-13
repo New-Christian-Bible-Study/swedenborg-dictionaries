@@ -766,6 +766,7 @@ immission
 immit
 immodesties
 immoveable
+implantations
 impletion
 imploration
 impotences
@@ -870,6 +871,7 @@ interiorly
 interlacings
 intermediating
 intermediation
+intermediations
 interminately
 intermit
 intermitted
