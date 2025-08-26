@@ -60,6 +60,7 @@ climbeth
 closeth
 clothest
 combinedly
+comest
 cometh
 Cometh
 comforteth
@@ -94,6 +95,7 @@ desireth
 destroyest
 devoureth
 dieth
+differeth
 discerneth
 disfavour
 disperseth
@@ -399,6 +401,7 @@ unmistakenly
 Upharsin
 upholdeth
 uttereth
+vanisheth
 verimost
 waiteth
 waketh
