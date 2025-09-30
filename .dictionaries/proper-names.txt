@@ -20,6 +20,7 @@ Abishai
 ABISHAI
 Abolibah
 Abom
+Abrahamic
 Absolom
 Accadia
 Achish
@@ -262,6 +263,7 @@ Docu
 Doeg
 Dom
 Dort
+Duckworth
 Duell
 Duker
 Dulness
@@ -592,6 +594,7 @@ Midianitish
 Milcah
 Milcom
 Milkah
+Millar
 Mineola
 Minories
 Mischpath
@@ -602,6 +605,7 @@ Mizpeh
 Moabite
 Moabites
 Moabitish
+Moffat
 Mohammed
 Mohammeds
 Moise
@@ -774,6 +778,7 @@ Sanctifier
 Sandstrom
 Santorian
 Sarai
+Sarver
 Satans
 Saturnian
 Saviour
@@ -823,6 +828,7 @@ Sibmah
 Sichem
 Sidonian
 Sig
+Sihon
 Sihor
 Similitudes
 Simran
@@ -883,6 +889,7 @@ Tamar
 Tartaruses
 Tatian
 Teachableness
+Tekoa
 Terah
 Tergiversation
 Tertian
