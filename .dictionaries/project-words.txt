@@ -11,6 +11,7 @@ Clapp
 Colman
 credal
 detre
+ectoplastic
 evanishment
 forthstanding
 groanings
