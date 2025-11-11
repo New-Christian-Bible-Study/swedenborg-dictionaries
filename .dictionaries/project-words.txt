@@ -11,6 +11,8 @@ Clapp
 Colman
 credal
 detre
+dreamlife
+earthlife
 ectoplastic
 evanishment
 forthstanding
@@ -23,11 +25,16 @@ lukos
 mis
 olist
 ownhood
+paraphrenia
+pratings
 selfestimate
 Sethite
 solifidianism
 sophistications
 Southworth
+spiritist
+spiritistic
+spiritists
 superconscious
 supersensuous
 tav
@@ -38,3 +45,4 @@ unheavenly
 unphilosophical
 upperalpha
 upperroman
+worldy

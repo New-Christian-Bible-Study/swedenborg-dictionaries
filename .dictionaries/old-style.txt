@@ -69,6 +69,7 @@ compasseth
 comprehendeth
 condemneth
 conditionment
+confesseth
 considereth
 consisteth
 containent
@@ -401,6 +402,7 @@ understandeth
 unmistakenly
 Upharsin
 upholdeth
+useth
 uttereth
 vanisheth
 verimost
