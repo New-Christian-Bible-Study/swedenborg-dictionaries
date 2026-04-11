@@ -50,6 +50,7 @@ Aholah
 Aholibah
 Aholibamah
 Ahusath
+Ajalon
 Algerines
 Almightys
 Almont
@@ -471,6 +472,7 @@ Ithamar
 Jaazaniah
 Jabbock
 Jacinth
+Jairus
 Janizaries
 Jansenists
 Jashar
@@ -816,6 +818,7 @@ Shebah
 Shebna
 Shelaph
 Shem
+Shema
 shemesh
 Sheminith
 Shemitic
