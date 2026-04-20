@@ -104,6 +104,7 @@ Ashurim
 Askenas
 Assentation
 Athanasian
+Athanasians
 Athenaeides
 Atheneum
 Athyn
@@ -492,6 +493,7 @@ Jephtha
 Jer
 Jerubbaal
 Jerusalemite
+Jerusalemites
 JESPER
 Jesuitical
 Jezreel

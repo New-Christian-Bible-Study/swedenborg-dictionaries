@@ -89,6 +89,7 @@ delighteth
 delivereth
 demeanour
 deniest
+denieth
 departeth
 deserteth
 desirest
@@ -212,6 +213,7 @@ liveth
 longeth
 looketh
 looseth
+loseth
 lovest
 Lovest
 loveth
@@ -290,6 +292,7 @@ receiveth
 recognising
 redeemeth
 refuseth
+regardest
 regardeth
 reigneth
 rejecteth
