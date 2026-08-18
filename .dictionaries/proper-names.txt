@@ -24,6 +24,7 @@ Abrahamic
 Absolom
 Accadia
 Achish
+Achsah
 Adamic
 Adamites
 Adamitic
@@ -36,6 +37,7 @@ Adlerheim
 Admah
 Adolphus
 Adonai
+Adoni-bezek
 Adonijah
 Adscititious
 Adulla
@@ -143,6 +145,7 @@ Bethogarma
 Bethphage
 Bethshemites
 Bezaleel
+Bezek
 Bierchenius
 Bignon
 Birdcatcher
@@ -238,6 +241,7 @@ Darmstadt
 Dathan
 Davidic
 Debauchings
+Debir
 Decapolis
 Decollation
 Dedanites
@@ -525,6 +529,7 @@ Khesib
 Kingslake
 Kippur
 Kirjath
+Kirjath-sepher
 Kishon
 Kitthaei
 Knifers
