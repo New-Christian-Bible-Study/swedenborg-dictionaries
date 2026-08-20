@@ -141,6 +141,7 @@ Benzelst
 Benzelstierna
 Bered
 Bergenstierna
+Beth-shean
 Bethogarma
 Bethphage
 Bethshemites
@@ -203,6 +204,7 @@ Christiandom
 Christianism
 Christianly
 Chrysolite
+Chushan-rishathaim
 Chwillah
 Circuities
 Circumfusing
@@ -449,6 +451,7 @@ Hufwa
 Humanum
 Hur
 Hyatt
+Ibleam
 Idumaeans
 Imbuement
 Immit
@@ -477,6 +480,7 @@ Israelitish
 Ithamar
 Jaazaniah
 Jabbock
+Jabin
 Jacinth
 Jairus
 Janizaries
@@ -598,7 +602,6 @@ Meshach
 Methusael
 Methuschael
 Methuschelach
-MHR
 Michaels
 Middleport
 Midianite
@@ -821,6 +824,7 @@ Serosity
 Servetus
 Sethites
 Shadrach
+Shamgar
 Shaphan
 Shebah
 Shebna
@@ -899,6 +903,7 @@ Syncretist
 Synnestvedt
 Syriack
 Syrophoenician
+Taanach
 Tabrets
 Tafel
 Tahpanhes
