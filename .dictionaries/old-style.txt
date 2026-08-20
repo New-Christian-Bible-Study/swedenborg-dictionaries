@@ -33,6 +33,7 @@ blest
 blindeth
 blotteth
 bloweth
+boweth
 breakest
 breaketh
 breatheth
@@ -176,6 +177,8 @@ holdeth
 honoureth
 hosen
 humbleth
+impartation
+impartest
 inbuilding
 inhabiteth
 injurest
@@ -379,12 +382,14 @@ striveth
 stumbleth
 subdueth
 subtilty
+succeedest
 suffereth
 sufficeth
 supporteth
 sweareth
 takest
 taketh
+talkest
 talketh
 teachest
 teacheth
