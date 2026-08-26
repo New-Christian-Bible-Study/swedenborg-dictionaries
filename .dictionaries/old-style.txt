@@ -54,6 +54,7 @@ causeth
 ceaseth
 changeth
 cheereth
+cherubims
 Chinnereth
 choosest
 cleaveth
@@ -177,6 +178,7 @@ holdeth
 honoureth
 hosen
 humbleth
+huntest
 impartation
 impartest
 inbuilding
@@ -320,6 +322,7 @@ riseth
 roareth
 rulest
 ruleth
+sacrificings
 salvability
 sanctifieth
 satisfieth
@@ -360,6 +363,7 @@ sleepest
 sleepeth
 smitest
 smiteth
+smootheth
 snatcheth
 sojourneth
 sowest
