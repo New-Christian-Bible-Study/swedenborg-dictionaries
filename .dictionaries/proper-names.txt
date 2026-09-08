@@ -41,6 +41,7 @@ Admah
 Adolphus
 Adonai
 Adoni-bezek
+Adoni-Zedek
 Adonijah
 Adscititious
 Adulla
@@ -134,6 +135,7 @@ Avel
 Avim
 Azal
 Azariah
+Azekah
 Azzah
 Baalath
 Baanah
@@ -494,6 +496,7 @@ Hivite
 Hivites
 Hjerne
 Hobab
+Hoham
 Holborn
 Holies
 Homogeneities
@@ -553,6 +556,7 @@ Jairus
 Janizaries
 Jansenists
 Japhia
+Jarmuth
 Jashar
 Jasher
 Javanites
@@ -817,6 +821,7 @@ Phinehas
 Phurah
 Pietist
 Pihahiroth
+Piram
 Pison
 Pitchpine
 Playactor
