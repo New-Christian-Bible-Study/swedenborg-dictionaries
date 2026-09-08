@@ -153,6 +153,7 @@ Bashemath
 Bayley
 Bedan
 Beerlahairoi
+Beeroth
 Befal
 Behm
 Belteshazzar
@@ -939,6 +940,7 @@ Shammua
 Shaphan
 Shaphat
 Shebah
+Shebarim
 Shebna
 Shelaph
 Shem
@@ -1102,11 +1104,14 @@ Wolffian
 Woofenden
 Yom
 Zaanaim
+Zabdi
 Zabuah
 Zamzummim
 Zaphnath
 Zarah
 Zarephath
+Zaretan
+Zarhites
 Zebulun
 Zecharia
 Zelzah
