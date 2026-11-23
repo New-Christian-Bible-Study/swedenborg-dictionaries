@@ -540,6 +540,7 @@ Ish-bosheth
 Ishah
 Ishmaelite
 Ishmaelites
+Ishmeelite
 Ishuah
 Ishui
 Islington
@@ -717,6 +718,7 @@ Moorfields
 Moraeus
 Moravianism
 Moravians
+Mosheim
 Moulders
 Mountebankism
 Multiplicability
@@ -1097,6 +1099,7 @@ Vollerus
 Wallerius
 Wapping
 Wellingk
+Wetstein
 Whereinsoever
 Whoredom
 Wisdoms
